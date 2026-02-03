@@ -421,5 +421,14 @@
         "link": "https://www.tibiawiki.com.br/wiki/Winterlight_Solstice",
         "emoji": "⛄",
         "category": "ANNUAL"
-    }
+    },
+    {
+        "name": "Rapid Respawn",
+        "startDate": "2026-02-06",
+        "endDate": "2026-02-09",
+        "descriptionResName": "event_desc_rapid_respawn",
+        "link": "https://tibia.fandom.com/wiki/Rapid_Respawn_Events",
+        "emoji": "👹",
+        "category": "BOOST"
+    },
 ]
