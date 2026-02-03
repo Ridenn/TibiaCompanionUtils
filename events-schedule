@@ -1,0 +1,425 @@
+[
+    {
+        "name": "Orcsoberfest",
+        "startDate": "2026-03-13",
+        "endDate": "2026-03-20",
+        "descriptionResName": "event_desc_orcsoberfest",
+        "link": "https://www.tibiawiki.com.br/wiki/Orcsoberfest",
+        "emoji": "👹",
+        "category": "COMMON"
+    },
+    {
+        "name": "Orcsoberfest",
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-16",
+        "descriptionResName": "event_desc_orcsoberfest",
+        "link": "https://www.tibiawiki.com.br/wiki/Orcsoberfest",
+        "emoji": "👹",
+        "category": "COMMON"
+    },
+    {
+        "name": "Orcsoberfest",
+        "startDate": "2027-03-12",
+        "endDate": "2027-03-19",
+        "descriptionResName": "event_desc_orcsoberfest",
+        "link": "https://www.tibiawiki.com.br/wiki/Orcsoberfest",
+        "emoji": "👹",
+        "category": "COMMON"
+    },
+    {
+        "name": "Orcsoberfest",
+        "startDate": "2027-10-08",
+        "endDate": "2027-10-15",
+        "descriptionResName": "event_desc_orcsoberfest",
+        "link": "https://www.tibiawiki.com.br/wiki/Orcsoberfest",
+        "emoji": "👹",
+        "category": "COMMON"
+    },
+    {
+        "name": "New Year's Season",
+        "startDate": "2025-12-27",
+        "endDate": "2026-01-03",
+        "descriptionResName": "event_desc_new_years",
+        "link": "https://www.tibiawiki.com.br/wiki/Ned_Nobel",
+        "emoji": "🎆",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "New Year's Season",
+        "startDate": "2026-12-27",
+        "endDate": "2027-01-03",
+        "descriptionResName": "event_desc_new_years",
+        "link": "https://www.tibiawiki.com.br/wiki/Ned_Nobel",
+        "emoji": "🎆",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Tibia's Anniversary",
+        "startDate": "2026-01-07",
+        "endDate": "2026-01-10",
+        "descriptionResName": "event_desc_anniversary",
+        "link": "https://www.tibiawiki.com.br/wiki/Anivers%C3%A1rio_do_Tibia",
+        "emoji": "🎂",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Tibia's Anniversary",
+        "startDate": "2027-01-07",
+        "endDate": "2027-01-10",
+        "descriptionResName": "event_desc_anniversary",
+        "link": "https://www.tibiawiki.com.br/wiki/Anivers%C3%A1rio_do_Tibia",
+        "emoji": "🎂",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "The First Dragon",
+        "startDate": "2026-01-14",
+        "endDate": "2026-02-12",
+        "descriptionResName": "event_desc_first_dragon",
+        "link": "https://www.tibiawiki.com.br/wiki/The_First_Dragon_Quest",
+        "emoji": "🐉",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "The First Dragon",
+        "startDate": "2027-01-14",
+        "endDate": "2027-02-12",
+        "descriptionResName": "event_desc_first_dragon",
+        "link": "https://www.tibiawiki.com.br/wiki/The_First_Dragon_Quest",
+        "emoji": "🐉",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Masquerade Days",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-28",
+        "descriptionResName": "event_desc_masquerade",
+        "link": "https://www.tibiawiki.com.br/wiki/Masquerade_Days",
+        "emoji": "🎭",
+        "category": "COMMON"
+    },
+    {
+        "name": "Masquerade Days",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-28",
+        "descriptionResName": "event_desc_masquerade",
+        "link": "https://www.tibiawiki.com.br/wiki/Masquerade_Days",
+        "emoji": "🎭",
+        "category": "COMMON"
+    },
+    {
+        "name": "Valentine's Day",
+        "startDate": "2026-02-14",
+        "endDate": "2026-02-14",
+        "descriptionResName": "event_desc_valentines",
+        "link": "https://www.tibiawiki.com.br/wiki/Valentine%27s_Day",
+        "emoji": "💘",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Valentine's Day",
+        "startDate": "2027-02-14",
+        "endDate": "2027-02-14",
+        "descriptionResName": "event_desc_valentines",
+        "link": "https://www.tibiawiki.com.br/wiki/Valentine%27s_Day",
+        "emoji": "💘",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "A Piece of Cake",
+        "startDate": "2026-02-21",
+        "endDate": "2026-02-26",
+        "descriptionResName": "event_desc_cake",
+        "link": "https://www.tibiawiki.com.br/wiki/A_Piece_of_Cake",
+        "emoji": "🍰",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "A Piece of Cake",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-26",
+        "descriptionResName": "event_desc_cake",
+        "link": "https://www.tibiawiki.com.br/wiki/A_Piece_of_Cake",
+        "emoji": "🍰",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Colours of Magic",
+        "startDate": "2026-03-15",
+        "endDate": "2026-03-23",
+        "descriptionResName": "event_desc_colours",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
+        "emoji": "🎩",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Colours of Magic",
+        "startDate": "2027-03-15",
+        "endDate": "2027-03-23",
+        "descriptionResName": "event_desc_colours",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
+        "emoji": "🎩",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "April Fools",
+        "startDate": "2026-04-01",
+        "endDate": "2026-04-30",
+        "descriptionResName": "event_desc_april_fools",
+        "link": "https://www.tibiawiki.com.br/wiki/April_Fools",
+        "emoji": "🃏",
+        "category": "COMMON"
+    },
+    {
+        "name": "April Fools",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-30",
+        "descriptionResName": "event_desc_april_fools",
+        "link": "https://www.tibiawiki.com.br/wiki/April_Fools",
+        "emoji": "🃏",
+        "category": "COMMON"
+    },
+    {
+        "name": "Chyllfroest",
+        "startDate": "2026-04-01",
+        "endDate": "2026-05-01",
+        "descriptionResName": "event_desc_chyllfroest",
+        "link": "https://www.tibiawiki.com.br/wiki/Chyllfroest",
+        "emoji": "❄️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Chyllfroest",
+        "startDate": "2027-04-01",
+        "endDate": "2027-05-01",
+        "descriptionResName": "event_desc_chyllfroest",
+        "link": "https://www.tibiawiki.com.br/wiki/Chyllfroest",
+        "emoji": "❄️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Spring Into Life",
+        "startDate": "2026-04-16",
+        "endDate": "2026-04-23",
+        "descriptionResName": "event_desc_spring",
+        "link": "https://www.tibiawiki.com.br/wiki/Spring_Into_Life",
+        "emoji": "🌱",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Spring Into Life",
+        "startDate": "2027-04-16",
+        "endDate": "2027-04-23",
+        "descriptionResName": "event_desc_spring",
+        "link": "https://www.tibiawiki.com.br/wiki/Spring_Into_Life",
+        "emoji": "🌱",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Demon's Lullaby",
+        "startDate": "2026-05-07",
+        "endDate": "2026-05-14",
+        "descriptionResName": "event_desc_demons_lullaby",
+        "link": "https://www.tibiawiki.com.br/wiki/Demon%27s_Lullaby",
+        "emoji": "😈",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Demon's Lullaby",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-14",
+        "descriptionResName": "event_desc_demons_lullaby",
+        "link": "https://www.tibiawiki.com.br/wiki/Demon%27s_Lullaby",
+        "emoji": "😈",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Flower Month",
+        "startDate": "2026-06-01",
+        "endDate": "2026-06-30",
+        "descriptionResName": "event_desc_flower_month",
+        "link": "https://www.tibiawiki.com.br/wiki/Flower_Month",
+        "emoji": "🌹",
+        "category": "COMMON"
+    },
+    {
+        "name": "Flower Month",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-30",
+        "descriptionResName": "event_desc_flower_month",
+        "link": "https://www.tibiawiki.com.br/wiki/Flower_Month",
+        "emoji": "🌹",
+        "category": "COMMON"
+    },
+    {
+        "name": "Bewitched",
+        "startDate": "2026-06-21",
+        "endDate": "2026-06-25",
+        "descriptionResName": "event_desc_bewitched",
+        "link": "https://www.tibiawiki.com.br/wiki/Bewitched",
+        "emoji": "🧙‍♀️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Bewitched",
+        "startDate": "2027-06-21",
+        "endDate": "2027-06-25",
+        "descriptionResName": "event_desc_bewitched",
+        "link": "https://www.tibiawiki.com.br/wiki/Bewitched",
+        "emoji": "🧙‍♀️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Hot Cuisine",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-31",
+        "descriptionResName": "event_desc_hot_cuisine",
+        "link": "https://www.tibiawiki.com.br/wiki/Hot_Cuisine_Quest",
+        "emoji": "👨‍🍳",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Hot Cuisine",
+        "startDate": "2027-08-01",
+        "endDate": "2027-08-31",
+        "descriptionResName": "event_desc_hot_cuisine",
+        "link": "https://www.tibiawiki.com.br/wiki/Hot_Cuisine_Quest",
+        "emoji": "👨‍🍳",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Rise of Devovorga",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-07",
+        "descriptionResName": "event_desc_devovorga",
+        "link": "https://www.tibiawiki.com.br/wiki/Rise_of_Devovorga",
+        "emoji": "🦑",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Rise of Devovorga",
+        "startDate": "2027-09-01",
+        "endDate": "2027-09-07",
+        "descriptionResName": "event_desc_devovorga",
+        "link": "https://www.tibiawiki.com.br/wiki/Rise_of_Devovorga",
+        "emoji": "🦑",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Colours of Magic",
+        "startDate": "2026-09-15",
+        "endDate": "2026-09-23",
+        "descriptionResName": "event_desc_colours",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
+        "emoji": "🎩",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Colours of Magic",
+        "startDate": "2027-09-15",
+        "endDate": "2027-09-23",
+        "descriptionResName": "event_desc_colours",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
+        "emoji": "🎩",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Annual Autumn Vintage",
+        "startDate": "2026-10-01",
+        "endDate": "2026-10-08",
+        "descriptionResName": "event_desc_autumn_vintage",
+        "link": "https://www.tibiawiki.com.br/wiki/Annual_Autumn_Vintage",
+        "emoji": "🍇",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Annual Autumn Vintage",
+        "startDate": "2027-10-01",
+        "endDate": "2027-10-08",
+        "descriptionResName": "event_desc_autumn_vintage",
+        "link": "https://www.tibiawiki.com.br/wiki/Annual_Autumn_Vintage",
+        "emoji": "🍇",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Annual Autumn Vintage (Round 2)",
+        "startDate": "2026-10-17",
+        "endDate": "2026-10-24",
+        "descriptionResName": "event_desc_autumn_vintage",
+        "link": "https://www.tibiawiki.com.br/wiki/Annual_Autumn_Vintage",
+        "emoji": "🍇",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Annual Autumn Vintage (Round 2)",
+        "startDate": "2027-10-17",
+        "endDate": "2027-10-24",
+        "descriptionResName": "event_desc_autumn_vintage",
+        "link": "https://www.tibiawiki.com.br/wiki/Annual_Autumn_Vintage",
+        "emoji": "🍇",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Halloween",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-03",
+        "descriptionResName": "event_desc_halloween",
+        "link": "https://www.tibiawiki.com.br/wiki/Halloween",
+        "emoji": "🎃",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Halloween",
+        "startDate": "2027-10-31",
+        "endDate": "2027-11-03",
+        "descriptionResName": "event_desc_halloween",
+        "link": "https://www.tibiawiki.com.br/wiki/Halloween",
+        "emoji": "🎃",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Lightbearer",
+        "startDate": "2026-11-11",
+        "endDate": "2026-11-15",
+        "descriptionResName": "event_desc_lightbearer",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Lightbearer",
+        "emoji": "🕯️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Lightbearer",
+        "startDate": "2027-11-11",
+        "endDate": "2027-11-15",
+        "descriptionResName": "event_desc_lightbearer",
+        "link": "https://www.tibiawiki.com.br/wiki/The_Lightbearer",
+        "emoji": "🕯️",
+        "category": "ANNUAL"
+    },
+    {
+        "name": "Christmas",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-31",
+        "descriptionResName": "event_desc_christmas",
+        "link": "https://www.tibiawiki.com.br/wiki/Christmas",
+        "emoji": "🎄",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Christmas",
+        "startDate": "2027-12-12",
+        "endDate": "2027-12-31",
+        "descriptionResName": "event_desc_christmas",
+        "link": "https://www.tibiawiki.com.br/wiki/Christmas",
+        "emoji": "🎄",
+        "category": "HOLIDAY"
+    },
+    {
+        "name": "Winterlight Solstice",
+        "startDate": "2026-12-22",
+        "endDate": "2027-01-10",
+        "descriptionResName": "event_desc_winterlight",
+        "link": "https://www.tibiawiki.com.br/wiki/Winterlight_Solstice",
+        "emoji": "⛄",
+        "category": "ANNUAL"
+    }
+]
