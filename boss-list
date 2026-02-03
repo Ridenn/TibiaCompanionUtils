@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Ferumbras",
+    "raceName": "Ferumbras",
+    "windowMin": 161,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Ghazbaran",
+    "raceName": "Ghazbaran",
+    "windowMin": 161,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Morgaroth",
+    "raceName": "Morgaroth",
+    "windowMin": 168,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Rotrender",
+    "windowMin": 162,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Morshabaal",
+    "windowMin": 154,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Orshabaal",
+    "raceName": "Orshabaal",
+    "windowMin": 154,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "The Abomination",
+    "windowMin": 154,
+    "windowMax": 175,
+    "spawnPoints": 1,
+    "category": "World Bosses",
+    "predict": true
+  },
+  {
+    "name": "Furyosa",
+    "raceName": "Furyosa",
+    "windowMin": 14,
+    "windowMax": 28,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Man In The Cave",
+    "raceName": "Man In The Cave",
+    "windowMin": 12,
+    "windowMax": 16,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Ocyakao",
+    "raceName": "Ocyakao",
+    "windowMin": 16,
+    "windowMax": 26,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Omrafir",
+    "raceName": "Omrafir",
+    "windowMin": 14,
+    "windowMax": 28,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Shlorg",
+    "raceName": "Shlorg",
+    "windowMin": 13,
+    "windowMax": 29,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "The Pale Count",
+    "raceName": "The Pale Count",
+    "windowMin": 16,
+    "windowMax": 30,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "The Welter",
+    "raceName": "The Welter",
+    "windowMin": 16,
+    "windowMax": 29,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Tyrn",
+    "raceName": "Tyrn",
+    "windowMin": 11,
+    "windowMax": 22,
+    "spawnPoints": 2,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Yeti",
+    "raceName": "yetis",
+    "windowMin": 18,
+    "windowMax": 25,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Zushuka",
+    "raceName": "Zushuka",
+    "windowMin": 19,
+    "windowMax": 29,
+    "spawnPoints": 1,
+    "category": "Profitable",
+    "predict": true
+  },
+  {
+    "name": "Dracola",
+    "raceName": "Dracola",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "Countess Sorrow",
+    "raceName": "Countess Sorrow",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "Massacre",
+    "raceName": "Massacre",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "Mr. Punish",
+    "raceName": "Mr. Punish",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "The Handmaiden",
+    "raceName": "The Handmaiden",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "The Imperor",
+    "raceName": "The Imperor",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "The Plasmother",
+    "raceName": "The Plasmother",
+    "windowMin": 14,
+    "windowMax": 21,
+    "spawnPoints": 1,
+    "category": "POI",
+    "predict": true
+  },
+  {
+    "name": "Arachir the Ancient One",
+    "raceName": "Arachir The Ancient One",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Vampire Lords",
+    "predict": true
+  },
+  {
+    "name": "Diblis the Fair",
+    "raceName": "Diblis The Fair",
+    "windowMin": 10,
+    "windowMax": 16,
+    "spawnPoints": 1,
+    "category": "Vampire Lords",
+    "predict": true
+  },
+  {
+    "name": "Sir Valorcrest",
+    "raceName": "Sir Valorcrest",
+    "windowMin": 5,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Vampire Lords",
+    "predict": true
+  },
+  {
+    "name": "Zevelon Duskbringer",
+    "raceName": "Zevelon Duskbringer",
+    "windowMin": 6,
+    "windowMax": 10,
+    "spawnPoints": 1,
+    "category": "Vampire Lords",
+    "predict": true
+  },
+  {
+    "name": "Battlemaster Zunzu",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 2,
+    "category": "Zao",
+    "predict": false
+  },
+  {
+    "name": "Dreadmaw",
+    "raceName": "Dreadmaw",
+    "windowMin": 11,
+    "windowMax": 17,
+    "spawnPoints": 2,
+    "category": "Zao",
+    "predict": true
+  },
+  {
+    "name": "Flamecaller Zazrak",
+    "raceName": "Flamecaller Zazrak",
+    "windowMin": 5,
+    "windowMax": 15,
+    "spawnPoints": 2,
+    "category": "Zao",
+    "predict": true
+  },
+  {
+    "name": "Fleabringer",
+    "raceName": "Fleabringer",
+    "windowMin": 4,
+    "windowMax": 8,
+    "spawnPoints": 3,
+    "category": "Zao",
+    "predict": false
+  },
+  {
+    "name": "Hatebreeder",
+    "raceName": "Hatebreeder",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Zao",
+    "predict": true
+  },
+  {
+    "name": "The Voice Of Ruin",
+    "raceName": "The Voice Of Ruin",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 2,
+    "category": "Zao",
+    "predict": false
+  },
+  {
+    "name": "Arthom The Hunter",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 4,
+    "spawnPoints": 1,
+    "category": "Stealth Ring"
+  },
+  {
+    "name": "Barbaria",
+    "raceName": "Barbaria",
+    "windowMin": 8,
+    "windowMax": 12,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "Big Boss Trolliver",
+    "raceName": "Big Boss Trolliver",
+    "windowMin": 3,
+    "windowMax": 7,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "General Murius",
+    "raceName": "General Murius",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "Oodok Witchmaster",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 4,
+    "spawnPoints": 1,
+    "category": "Stealth Ring"
+  },
+  {
+    "name": "Rotworm Queen",
+    "raceName": "Rotworm Queens",
+    "windowMin": 1,
+    "windowMax": 16,
+    "spawnPoints": 4,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "Smuggler Baron Silvertoe",
+    "raceName": "Smuggler Baron Silvertoe",
+    "windowMin": 8,
+    "windowMax": 15,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "The Big Bad One",
+    "raceName": "The Big Bad One",
+    "windowMin": 6,
+    "windowMax": 11,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "The Evil Eye",
+    "raceName": "The Evil Eye",
+    "windowMin": 6,
+    "windowMax": 12,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "The Old Whopper",
+    "raceName": "The Old Whopper",
+    "windowMin": 5,
+    "windowMax": 10,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "White Pale",
+    "raceName": "White Pale",
+    "windowMin": 15,
+    "windowMax": 28,
+    "spawnPoints": 3,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "Yaga the Crone",
+    "raceName": "Yaga The Crone",
+    "windowMin": 5,
+    "windowMax": 7,
+    "spawnPoints": 1,
+    "category": "Stealth Ring",
+    "predict": true
+  },
+  {
+    "name": "Albino Dragon",
+    "raceName": "albino dragons",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 5,
+    "category": "Other"
+  },
+  {
+    "name": "Captain Jones",
+    "raceName": "Captain Jones",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Dharalion",
+    "raceName": "Dharalion",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Foreman Kneebiter",
+    "raceName": "Foreman Kneebiter",
+    "windowMin": 3,
+    "windowMax": 6,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Grandfather Tridian",
+    "raceName": "Grandfather Tridian",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Gravelord Oshuran",
+    "raceName": "Gravelord Oshuran",
+    "windowMin": 7,
+    "windowMax": 12,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Grorlam",
+    "raceName": "Grorlam",
+    "predict": false,
+    "windowMin": 2,
+    "windowMax": 10,
+    "spawnPoints": 7,
+    "category": "Other"
+  },
+  {
+    "name": "Hairman The Huge",
+    "raceName": "Hairman The Huge",
+    "windowMin": 6,
+    "windowMax": 10,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "High Templar Cobrass",
+    "raceName": "High Templar Cobrass",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Hirintror",
+    "raceName": "Hirintror",
+    "windowMin": 1,
+    "windowMax": 23,
+    "spawnPoints": 2,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Mawhawk",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other"
+  },
+  {
+    "name": "Midnight Panther",
+    "raceName": "midnight panthers",
+    "predict": true,
+    "windowMin": 2,
+    "windowMax": 7,
+    "spawnPoints": 1,
+    "category": "Other"
+  },
+  {
+    "name": "Rukor Zad",
+    "raceName": "Rukor Zad",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "The Frog Prince",
+    "raceName": "The Frog Prince",
+    "windowMin": 12,
+    "windowMax": 18,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Tzumrah The Dazzler",
+    "raceName": "Tzumrah The Dazzler",
+    "windowMin": 20,
+    "windowMax": 28,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Warlord Ruzad",
+    "raceName": "Warlord Ruzad",
+    "windowMin": 6,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Xenia",
+    "raceName": "Xenia",
+    "windowMin": 7,
+    "windowMax": 14,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Zarabustor",
+    "raceName": "Zarabustor",
+    "windowMin": 6,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Elvira Hammerthrust",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Bank Robber"
+  },
+  {
+    "name": "Jesse the Wicked",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Bank Robber"
+  },
+  {
+    "name": "Mornenion",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Bank Robber"
+  },
+  {
+    "name": "Robby the Reckless",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Bank Robber"
+  },
+  {
+    "name": "Burster",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 3,
+    "spawnPoints": 1,
+    "category": "Varying Spawn"
+  },
+  {
+    "name": "Dreadful Disruptor",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 2,
+    "spawnPoints": 1,
+    "category": "Varying Spawn"
+  },
+  {
+    "name": "Mahatheb",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Varying Spawn"
+  },
+  {
+    "name": "The Hungerer",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Hive Outpost"
+  },
+  {
+    "name": "The Manhunter",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Hive Outpost"
+  },
+  {
+    "name": "The Mean Masher",
+    "predict": false,
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Hive Outpost"
+  },
+  {
+    "name": "Munster",
+    "predict": true,
+    "windowMin": 1,
+    "windowMax": 7,
+    "spawnPoints": 1,
+    "category": "Rookgaard"
+  },
+  {
+    "name": "Fernfang",
+    "raceName": "Fernfang",
+    "windowMin": 20,
+    "windowMax": 27,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Zulazza The Corruptor",
+    "raceName": "Zulazza The Corruptor",
+    "windowMin": 7,
+    "windowMax": 19,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Cublarc the Plunderer",
+    "raceName": "Cublarc the Plunderer",
+    "windowMin": 1,
+    "windowMax": 7,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Gaz'Haragoth",
+    "raceName": "Gaz'haragoth",
+    "windowMin": 14,
+    "windowMax": 27,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Willi Wasp",
+    "raceName": "Willi Wasp",
+    "windowMin": 5,
+    "windowMax": 9,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Grand Mother Foulscale",
+    "windowMin": 5,
+    "windowMax": 11,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Draptor",
+    "windowMin": 1,
+    "windowMax": 10,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Undead Cavebear",
+    "raceName": "undead cavebears",
+    "windowMin": 2,
+    "windowMax": 3,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Apprentice Sheng",
+    "windowMin": 1,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Rookgaard",
+    "predict": true
+  },
+  {
+    "name": "Rottie the Rotworm",
+    "windowMin": 2,
+    "windowMax": 4,
+    "spawnPoints": 2,
+    "category": "Rookgaard",
+    "predict": true
+  },
+  {
+    "name": "Teleskor",
+    "windowMin": 2,
+    "windowMax": 4,
+    "spawnPoints": 1,
+    "category": "Rookgaard",
+    "predict": true
+  },
+  {
+    "name": "Chizzoron the Distorter",
+    "windowMin": 7,
+    "windowMax": 19,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "The Blightfather",
+    "windowMin": 5,
+    "windowMax": 11,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Zomba",
+    "windowMin": 3,
+    "windowMax": 8,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": true
+  },
+  {
+    "name": "Feroxa",
+    "windowMin": 30,
+    "windowMax": 93,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Chopper",
+    "windowMin": 2,
+    "windowMax": 3,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Crustacea Gigantica",
+    "windowMin": 1,
+    "windowMax": 6,
+    "spawnPoints": 8,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Groam",
+    "windowMin": 1,
+    "windowMax": 3,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Maw",
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Mindmasher",
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Rotspit",
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Shadowstalker",
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Yakchal",
+    "windowMin": 2,
+    "windowMax": 4,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  },
+  {
+    "name": "Sir Leopold",
+    "windowMin": 1,
+    "windowMax": 1,
+    "spawnPoints": 1,
+    "category": "Other",
+    "predict": false
+  }
+]
