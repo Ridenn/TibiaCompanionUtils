@@ -1724,17 +1724,17 @@
             {
                 "name": "Nightmare Blade",
                 "chance": "0.77%",
-                "price": null
+                "price": "35k"
             },
             {
                 "name": "Royal Helmet",
                 "chance": "0.17%",
-                "price": null
+                "price": "30k"
             },
             {
                 "name": "Boots of Haste",
                 "chance": "0.48%",
-                "price": null
+                "price": "30k"
             }
         ],
         "strategy": "hunt_strategy_lower_roshamuul",
@@ -1779,17 +1779,17 @@
             {
                 "name": "Nightmare Blade",
                 "chance": "0.77%",
-                "price": null
+                "price": "35k"
             },
             {
                 "name": "Royal Helmet",
                 "chance": "0.17%",
-                "price": null
+                "price": "30k"
             },
             {
                 "name": "Boots of Haste",
                 "chance": "0.48%",
-                "price": null
+                "price": "30k"
             }
         ],
         "strategy": "hunt_strategy_lower_roshamuul_paladin_2",
@@ -1831,17 +1831,17 @@
             {
                 "name": "Nightmare Blade",
                 "chance": null,
-                "price": null
+                "price": "35k"
             },
             {
                 "name": "Royal Helmet",
                 "chance": null,
-                "price": null
+                "price": "30k"
             },
             {
                 "name": "Boots of Haste",
                 "chance": null,
-                "price": 30k
+                "price": "30k"
             },
             {
                 "name": "Assassin Dagger",
@@ -10959,4 +10959,5 @@
         "pathToNew": null
     }
 ]
+
 
