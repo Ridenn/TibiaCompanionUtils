@@ -1811,6 +1811,86 @@
         "pathToNew": "hunt_path_lower_roshamuul"
     },
     {
+        "id": "lower-roshamuul-monk-1",
+        "name": "Lower Roshamuul",
+        "imageMonster": "Shock Head",
+        "vocations": [
+            "Monk"
+        ],
+        "minLevel": 300,
+        "rawXpMin": 2000000,
+        "profitMin": 400000,
+        "videoUrl": "https://www.youtube.com/watch?v=QI49YMtE7go&pp=ygUUbG93ZXIgcm9zaGFtdXVsIG1vbms%3D",
+        "access": "Roshamuul (premium)",
+        "monsters": [
+            "Silencer",
+            "Frazzlemaw",
+            "Shock Head"
+        ],
+        "bestLoot": [
+            {
+                "name": "Nightmare Blade",
+                "chance": null,
+                "price": null
+            },
+            {
+                "name": "Royal Helmet",
+                "chance": null,
+                "price": null
+            },
+            {
+                "name": "Boots of Haste",
+                "chance": null,
+                "price": 30k
+            },
+            {
+                "name": "Assassin Dagger",
+                "chance": null,
+                "price": null
+            },
+            {
+                "name": "Terra Legs",
+                "chance": null,
+                "price": null
+            },
+            {
+                "name": "Sai",
+                "chance": null,
+                "price": null
+            }
+        ],
+        "strategy": null,
+        "supplies": [
+            "Great Mana Potion",
+            "Great Spirit Potion",
+            "Ultimate Spirit Potion",
+            "Bone Fiddle"
+        ],
+        "imbuements": [
+            {
+                "name": "Strike",
+                "quantity": 1
+            },
+            {
+                "name": "Vampirism",
+                "quantity": 2
+            },
+            {
+                "name": "Void",
+                "quantity": 2
+            }
+        ],
+        "location": {
+            "x": 33528,
+            "y": 32530,
+            "z": 6
+        },
+        "teamSize": "SOLO",
+        "areaStatus": "PREMIUM",
+        "requirements": [],
+        "pathToNew": "hunt_path_lower_roshamuul"
+    },
+    {
         "id": "roshamuul-mines-paladin-1",
         "name": "Roshamuul Mines",
         "imageMonster": "Terrorsleep",
@@ -10879,3 +10959,4 @@
         "pathToNew": null
     }
 ]
+
