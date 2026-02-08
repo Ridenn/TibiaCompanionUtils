@@ -621,7 +621,7 @@
     ]
   },
   {
-    "name": "Arthom The Hunter",
+    "name": "Arthom the Hunter",
     "predict": false,
     "windowMin": 1,
     "windowMax": 4,
@@ -1574,19 +1574,19 @@
     "predict": true,
     "location": [
         {
-            "name": "Lich Hell (Liberty Bay)"
+            "name": "Lich Hell (Liberty Bay)",
             "x": 31977,
             "y": 32559,
             "z": 10
         },
         {
-            "name": "Lich Hell (Liberty Bay)"
+            "name": "Lich Hell (Liberty Bay)",
             "x": 31965,
             "y": 32591,
             "z": 10
         },
         {
-            "name": "Lich Hell (Liberty Bay)"
+            "name": "Lich Hell (Liberty Bay)",
             "x": 31913,
             "y": 32560,
             "z": 10
