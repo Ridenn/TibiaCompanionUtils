@@ -108,8 +108,8 @@
     "predict": true,
     "location": [
         {
-            "x": 32576,
-            "y": 31048,
+            "x": 32430,
+            "y": 31027,
             "z": 15
         }
     ]
@@ -1602,7 +1602,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Minotaur Hell (Rookgaard)"
+            "name": "Minotaur Hell (Rookgaard)",
             "x": 32130,
             "y": 32059,
             "z": 12
@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "name": "Feroxa (Mortal)",
+    "name": "Feroxa",
     "windowMin": 30,
     "windowMax": 93,
     "spawnPoints": 1,
