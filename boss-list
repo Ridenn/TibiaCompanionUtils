@@ -1008,7 +1008,15 @@
     "windowMax": 10,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Banuta (Port Hope)"
+            "x": 32846,
+            "y": 32509,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "High Templar Cobrass",
@@ -1017,7 +1025,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Chor (Port Hope)"
+            "x": 32957,
+            "y": 32842,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Hirintror",
@@ -1026,7 +1042,21 @@
     "windowMax": 23,
     "spawnPoints": 2,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Formorgar Mines (Svargrond)"
+            "x": 32145,
+            "y": 31257,
+            "z": 10
+        },
+        {
+            "name": "Nibelor (Svargrond)"
+            "x": 32366,
+            "y": 31053,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Mawhawk",
@@ -1034,7 +1064,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Other"
+    "category": "Other",
+    "location": [
+        {
+            "name": "Mawhawk's Lair (Lower Roshamuul)"
+            "x": 33699,
+            "y": 32462,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Midnight Panther",
@@ -1042,8 +1080,28 @@
     "predict": true,
     "windowMin": 2,
     "windowMax": 7,
-    "spawnPoints": 1,
-    "category": "Other"
+    "spawnPoints": 3,
+    "category": "Other",
+    "location": [
+        {
+            "name": "Tiquanda (Port hope)"
+            "x": 32854,
+            "y": 32744,
+            "z": 7
+        },
+        {
+            "name": "Tiquanda (Port hope)"
+            "x": 32831,
+            "y": 32706,
+            "z": 7
+        },
+        {
+            "name": "Tiquanda (Port hope)"
+            "x": 32886,
+            "y": 32721,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Rukor Zad",
@@ -1052,7 +1110,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Dark Cathedral (Plains of Havoc)"
+            "x": 32601,
+            "y": 32383,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "The Frog Prince",
@@ -1061,7 +1127,15 @@
     "windowMax": 18,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Alatar Lake (Thais)"
+            "x": 32383,
+            "y": 32128,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Tzumrah The Dazzler",
@@ -1070,7 +1144,15 @@
     "windowMax": 28,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Forbidden Temple (Ankrahmun)"
+            "x": 33326,
+            "y": 32657,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Warlord Ruzad",
@@ -1079,7 +1161,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Orc Fortress (Kazordoon)"
+            "x": 32976,
+            "y": 31717,
+            "z": 5
+        }
+    ]
   },
   {
     "name": "Xenia",
@@ -1088,7 +1178,21 @@
     "windowMax": 14,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Amazon Camp (Venore)"
+            "x": 32891,
+            "y": 31887,
+            "z": 8
+        },
+        {
+            "name": "Amazon Camp (Venore)"
+            "x": 32891,
+            "y": 31887,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Zarabustor",
@@ -1097,7 +1201,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Demona (Ab'Dendriel)"
+            "x": 32508,
+            "y": 31582,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "Elvira Hammerthrust",
@@ -1105,7 +1217,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Bank Robber"
+    "category": "Bank Robber",
+    "location": [
+        {
+            "name": "Dwarf Mines (Kazordoon)"
+            "x": 32531,
+            "y": 31926,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Jesse the Wicked",
@@ -1113,7 +1233,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Bank Robber"
+    "category": "Bank Robber",
+    "location": [
+        {
+            "name": "Ancient Temple (Thais)"
+            "x": 32372,
+            "y": 32221,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Mornenion",
@@ -1121,7 +1249,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Bank Robber"
+    "category": "Bank Robber",
+    "location": [
+        {
+            "name": "Shadowthorn (Venore)"
+            "x": 33087,
+            "y": 32157,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Robby the Reckless",
@@ -1129,7 +1265,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Bank Robber"
+    "category": "Bank Robber",
+    "location": [
+        {
+            "name": "Ghostlands (Carlin)"
+            "x": 32198,
+            "y": 31809,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Burster",
@@ -1137,7 +1281,15 @@
     "windowMin": 1,
     "windowMax": 3,
     "spawnPoints": 1,
-    "category": "Varying Spawn"
+    "category": "Varying Spawn",
+    "location": [
+        {
+            "name": "Otherworld (Kazordoon)"
+            "x": 32449,
+            "y": 32416,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Dreadful Disruptor",
@@ -1145,7 +1297,15 @@
     "windowMin": 1,
     "windowMax": 2,
     "spawnPoints": 1,
-    "category": "Varying Spawn"
+    "category": "Varying Spawn",
+    "location": [
+        {
+            "name": "Otherworld (Edron)"
+            "x": 32021,
+            "y": 31379,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Mahatheb",
@@ -1153,7 +1313,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Varying Spawn"
+    "category": "Varying Spawn",
+    "location": [
+        {
+            "name": "Forgotten Tomb (Ankrahmun)"
+            "x": 33390,
+            "y": 31702,
+            "z": 13
+        }
+    ]
   },
   {
     "name": "The Hungerer",
@@ -1161,7 +1329,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Hive Outpost"
+    "category": "Hive Outpost",
+    "location": [
+        {
+            "name": "Hive Outpost (Liberty Bay)"
+            "x": 32155,
+            "y": 32862,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "The Manhunter",
@@ -1169,7 +1345,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Hive Outpost"
+    "category": "Hive Outpost",
+    "location": [
+        {
+            "name": "Hive Outpost (Liberty Bay)"
+            "x": 32167,
+            "y": 32865,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "The Mean Masher",
@@ -1177,7 +1361,15 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 1,
-    "category": "Hive Outpost"
+    "category": "Hive Outpost",
+    "location": [
+        {
+            "name": "Hive Outpost (Liberty Bay)"
+            "x": 32167,
+            "y": 32865,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Munster",
@@ -1185,7 +1377,15 @@
     "windowMin": 1,
     "windowMax": 7,
     "spawnPoints": 1,
-    "category": "Rookgaard"
+    "category": "Rookgaard",
+    "location": [
+        {
+            "name": "Rat Cave (Rookgaard)"
+            "x": 32102,
+            "y": 32217,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Fernfang",
@@ -1194,7 +1394,15 @@
     "windowMax": 27,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Isle of Mists (Plains of Havoc)"
+            "x": 32854,
+            "y": 32333,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Zulazza The Corruptor",
@@ -1203,7 +1411,15 @@
     "windowMax": 19,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Zzaion (Farmine)"
+            "x": 33347,
+            "y": 31609,
+            "z": 1
+        }
+    ]
   },
   {
     "name": "Cublarc the Plunderer",
@@ -1212,7 +1428,27 @@
     "windowMax": 7,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33090,
+            "y": 31391,
+            "z": 7
+        },
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33229,
+            "y": 31428,
+            "z": 7
+        },
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33317,
+            "y": 31453,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Gaz'Haragoth",
@@ -1221,7 +1457,15 @@
     "windowMax": 27,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Roshamuul Prison (Roshamuul)"
+            "x": 33630,
+            "y": 32372,
+            "z": 5
+        }
+    ]
   },
   {
     "name": "Willi Wasp",
@@ -1230,7 +1474,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Carlin"
+            "x": 32345,
+            "y": 31704,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Grand Mother Foulscale",
@@ -1238,7 +1490,15 @@
     "windowMax": 11,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33309,
+            "y": 31173,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Draptor",
@@ -1246,16 +1506,92 @@
     "windowMax": 10,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33189,
+            "y": 31236,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33215,
+            "y": 31228,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33234,
+            "y": 31186,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33286,
+            "y": 31251,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33253,
+            "y": 31162,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33291,
+            "y": 31158,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33333,
+            "y": 31188,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33110,
+            "y": 31079,
+            "z": 10
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33058,
+            "y": 31116,
+            "z": 10
+        },
+    ]
   },
   {
     "name": "Undead Cavebear",
     "raceName": "undead cavebears",
     "windowMin": 2,
     "windowMax": 3,
-    "spawnPoints": 1,
+    "spawnPoints": 3,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Lich Hell (Liberty Bay)"
+            "x": 31977,
+            "y": 32559,
+            "z": 10
+        },
+        {
+            "name": "Lich Hell (Liberty Bay)"
+            "x": 31965,
+            "y": 32591,
+            "z": 10
+        },
+        {
+            "name": "Lich Hell (Liberty Bay)"
+            "x": 31913,
+            "y": 32560,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Apprentice Sheng",
@@ -1263,7 +1599,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Rookgaard",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Minotaur Hell (Rookgaard)"
+            "x": 32130,
+            "y": 32059,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Rottie the Rotworm",
@@ -1271,7 +1615,21 @@
     "windowMax": 4,
     "spawnPoints": 2,
     "category": "Rookgaard",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Katana Quest (Rookgaard)"
+            "x": 32180,
+            "y": 32149,
+            "z": 11
+        },
+        {
+            "name": "Poison Spider Cave (Rookgaard)"
+            "x": 31975,
+            "y": 32066,
+            "z": 13
+        }
+    ]
   },
   {
     "name": "Teleskor",
@@ -1279,7 +1637,15 @@
     "windowMax": 4,
     "spawnPoints": 1,
     "category": "Rookgaard",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Premium Area (Rookgaard)"
+            "x": 31981,
+            "y": 32246,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Chizzoron the Distorter",
@@ -1287,7 +1653,15 @@
     "windowMax": 19,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Zzaion (Farmine)"
+            "x": 33351,
+            "y": 31609,
+            "z": 2
+        }
+    ]
   },
   {
     "name": "The Blightfather",
@@ -1295,7 +1669,15 @@
     "windowMax": 11,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33306,
+            "y": 31154,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Zomba",
@@ -1303,7 +1685,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Darashia"
+            "x": 33159,
+            "y": 32427,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Feroxa",
@@ -1311,7 +1701,15 @@
     "windowMax": 93,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Grimvale (Edron)"
+            "x": 33298,
+            "y": 31722,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Chopper",
@@ -1319,7 +1717,15 @@
     "windowMax": 3,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "The Hive (Gray Beach)"
+            "x": 33522,
+            "y": 31254,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Crustacea Gigantica",
@@ -1327,7 +1733,57 @@
     "windowMax": 6,
     "spawnPoints": 8,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Treasure Island (Liberty Bay)"
+            "x": 32181,
+            "y": 32939,
+            "z": 9
+        },
+        {
+            "name": "Calassa (Liberty Bay))"
+            "x": 32113,
+            "y": 32733,
+            "z": 12
+        },
+        {
+            "name": "Calassa (Liberty Bay))"
+            "x": 32114,
+            "y": 32804,
+            "z": 12
+        },
+        {
+            "name": "Seacrest Grounds (Oramond)"
+            "x": 33517,
+            "y": 31804,
+            "z": 15
+        },
+        {
+            "name": "Seacrest Grounds (Oramond)"
+            "x": 33471,
+            "y": 31654,
+            "z": 15
+        },
+        {
+            "name": "Seacrest Grounds (Oramond)"
+            "x": 33507,
+            "y": 31635,
+            "z": 14
+        },
+        {
+            "name": "Seacrest Grounds (Oramond)"
+            "x": 33534,
+            "y": 31658,
+            "z": 15
+        },
+        {
+            "name": "Seacrest Grounds (Oramond)"
+            "x": 33555,
+            "y": 31788,
+            "z": 14
+        },
+    ]
   },
   {
     "name": "Groam",
@@ -1335,7 +1791,15 @@
     "windowMax": 3,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Sunken Mines (Kazordoon)"
+            "x": 32629,
+            "y": 32020,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Maw",
@@ -1343,7 +1807,15 @@
     "windowMax": 1,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Sunken Mines (Kazordoon)"
+            "x": 33506,
+            "y": 31246,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Mindmasher",
@@ -1351,7 +1823,15 @@
     "windowMax": 1,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "The Hive (Gray Beach)"
+            "x": 33457,
+            "y": 31222,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Rotspit",
@@ -1359,7 +1839,15 @@
     "windowMax": 1,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "The Hive (Gray Beach)"
+            "x": 33450,
+            "y": 31228,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Shadowstalker",
@@ -1367,7 +1855,15 @@
     "windowMax": 1,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "The Hive (Gray Beach)"
+            "x": 33480,
+            "y": 31233,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Yakchal",
@@ -1375,7 +1871,15 @@
     "windowMax": 4,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Formorgar Mines (Svargrond)"
+            "x": 32205,
+            "y": 31003,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "Sir Leopold",
@@ -1383,6 +1887,14 @@
     "windowMax": 1,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Book World (Edron)"
+            "x": 32538,
+            "y": 32512,
+            "z": 10
+        }
+    ]
   }
 ]
