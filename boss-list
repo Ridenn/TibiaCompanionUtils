@@ -23,7 +23,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Formorgar Mines (Svargrond)"
+            "x": 32227,
+            "y": 31157,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Morgaroth",
@@ -32,7 +40,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Goroma (Liberty Bay)"
+            "x": 32061,
+            "y": 32615,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "Rotrender",
@@ -40,7 +56,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Azzilon Castle (Edron)"
+            "x": 33925,
+            "y": 32337,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Morshabaal",
@@ -48,7 +72,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Edron"
+            "x": 33265,
+            "y": 31772,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Orshabaal",
@@ -57,7 +89,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Edron"
+            "x": 33265,
+            "y": 31772,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "The Abomination",
@@ -65,7 +105,14 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "x": 32576,
+            "y": 31048,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Furyosa",
@@ -74,7 +121,15 @@
     "windowMax": 28,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Fury Gate (Edron)"
+            "x": 33314,
+            "y": 31842,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Man In The Cave",
@@ -83,7 +138,15 @@
     "windowMax": 16,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Svargrond"
+            "x": 32133,
+            "y": 31147,
+            "z": 2
+        }
+    ]
   },
   {
     "name": "Ocyakao",
@@ -92,7 +155,15 @@
     "windowMax": 26,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Nibelor (Svargrond)"
+            "x": 32351,
+            "y": 31052,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Omrafir",
@@ -101,7 +172,15 @@
     "windowMax": 28,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Roshamuul Prison (Roshamuul)"
+            "x": 33589,
+            "y": 32379,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Shlorg",
@@ -110,7 +189,15 @@
     "windowMax": 29,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Earth Elemental Cave (Edron)"
+            "x": 33169,
+            "y": 31732,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "The Pale Count",
@@ -119,7 +206,15 @@
     "windowMax": 30,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Drefia (Darashia)"
+            "x": 32966,
+            "y": 32421,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "The Welter",
@@ -128,7 +223,15 @@
     "windowMax": 29,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Tiquanda (Port Hope)"
+            "x": 33027,
+            "y": 32658,
+            "z": 5
+        }
+    ]
   },
   {
     "name": "Tyrn",
@@ -137,7 +240,21 @@
     "windowMax": 22,
     "spawnPoints": 2,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Drefia (Darashia)"
+            "x": 33048,
+            "y": 32377,
+            "z": 14
+        },
+        {
+            "name": "Wyrm Cave (Liberty Bay)"
+            "x": 32440,
+            "y": 32838,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Yeti",
@@ -146,7 +263,15 @@
     "windowMax": 25,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Folda (Carlin)"
+            "x": 32006,
+            "y": 31596,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Zushuka",
@@ -155,7 +280,15 @@
     "windowMax": 29,
     "spawnPoints": 1,
     "category": "Profitable",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Ice Witch Temple (Svargrond)"
+            "x": 31942,
+            "y": 31387,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Dracola",
@@ -164,7 +297,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32838,
+            "y": 32307,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Countess Sorrow",
@@ -173,7 +314,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32794,
+            "y": 32363,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Massacre",
@@ -182,7 +331,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32872,
+            "y": 32280,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Mr. Punish",
@@ -191,7 +348,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32762,
+            "y": 32243,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "The Handmaiden",
@@ -200,7 +365,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32785,
+            "y": 32285,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "The Imperor",
@@ -209,7 +382,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32891,
+            "y": 32236,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "The Plasmother",
@@ -218,7 +399,15 @@
     "windowMax": 21,
     "spawnPoints": 1,
     "category": "POI",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Pits of Inferno"
+            "x": 32853,
+            "y": 32331,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Arachir the Ancient One",
@@ -227,7 +416,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Vampire Lords",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Drefia (Darashia)"
+            "x": 32969,
+            "y": 32399,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Diblis the Fair",
@@ -236,7 +433,15 @@
     "windowMax": 16,
     "spawnPoints": 1,
     "category": "Vampire Lords",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Nargor Undead Cave (Liberty Bay)"
+            "x": 32008,
+            "y": 32793,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Sir Valorcrest",
@@ -245,7 +450,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Vampire Lords",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Undead Cave (Edron)"
+            "x": 33413,
+            "y": 31845,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Zevelon Duskbringer",
@@ -254,15 +467,43 @@
     "windowMax": 10,
     "spawnPoints": 1,
     "category": "Vampire Lords",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Hellgate (Ab'Dendriel)"
+            "x": 32769,
+            "y": 31581,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Battlemaster Zunzu",
     "windowMin": 6,
     "windowMax": 8,
-    "spawnPoints": 2,
+    "spawnPoints": 3,
     "category": "Zao",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33208,
+            "y": 31241,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33237,
+            "y": 31240,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33284,
+            "y": 31241,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Dreadmaw",
@@ -271,7 +512,21 @@
     "windowMax": 17,
     "spawnPoints": 2,
     "category": "Zao",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33270,
+            "y": 31163,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33296,
+            "y": 31149,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Flamecaller Zazrak",
@@ -280,7 +535,21 @@
     "windowMax": 15,
     "spawnPoints": 2,
     "category": "Zao",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33180,
+            "y": 31220,
+            "z": 7
+        },
+        {
+            "name": "Muggy Plains (Farmine)"
+            "x": 33251,
+            "y": 31152,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Fleabringer",
@@ -289,7 +558,27 @@
     "windowMax": 8,
     "spawnPoints": 3,
     "category": "Zao",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33092,
+            "y": 31384,
+            "z": 8
+        },
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33112,
+            "y": 31457,
+            "z": 8
+        },
+        {
+            "name": "Zao Steppe (Farmine)"
+            "x": 33251,
+            "y": 31423,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Hatebreeder",
@@ -298,7 +587,15 @@
     "windowMax": 9,
     "spawnPoints": 1,
     "category": "Zao",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "WOTE (Farmine)"
+            "x": 33085,
+            "y": 31103,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "The Voice Of Ruin",
@@ -307,7 +604,21 @@
     "windowMax": 9,
     "spawnPoints": 2,
     "category": "Zao",
-    "predict": false
+    "predict": false,
+    "location": [
+        {
+            "name": "Corruption Hole (Farmine)"
+            "x": 33313,
+            "y": 31132,
+            "z": 9
+        },
+        {
+            "name": "Corruption Hole (Farmine)"
+            "x": 33380,
+            "y": 31087,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Arthom The Hunter",
@@ -315,7 +626,15 @@
     "windowMin": 1,
     "windowMax": 4,
     "spawnPoints": 1,
-    "category": "Stealth Ring"
+    "category": "Stealth Ring",
+    "location": [
+        {
+            "name": "Hunter Camp (Port Hope)"
+            "x": 32887,
+            "y": 32787,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Barbaria",
@@ -324,7 +643,15 @@
     "windowMax": 12,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Barbarian Camp, Krimhorn (Svargrond)"
+            "x": 32007,
+            "y": 31415,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Big Boss Trolliver",
@@ -333,7 +660,15 @@
     "windowMax": 7,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Troll Cave (Edron)"
+            "x": 33134,
+            "y": 31721,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "General Murius",
@@ -342,7 +677,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Mintwallin (Thais)"
+            "x": 32414,
+            "y": 32119,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Oodok Witchmaster",
@@ -350,7 +693,15 @@
     "windowMin": 1,
     "windowMax": 4,
     "spawnPoints": 1,
-    "category": "Stealth Ring"
+    "category": "Stealth Ring",
+    "location": [
+        {
+            "name": "Hunter Camp (Port Hope)"
+            "x": 32887,
+            "y": 32787,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Rotworm Queen",
@@ -359,7 +710,33 @@
     "windowMax": 16,
     "spawnPoints": 4,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Rotworm Cave (Darashia)"
+            "x": 33046,
+            "y": 32373,
+            "z": 9
+        },
+        {
+            "name": "Rotworm Cave (Liberty Bay)"
+            "x": 32263,
+            "y": 32689,
+            "z": 10
+        },
+        {
+            "name": "Rotworm Cave (Darashia)"
+            "x": 33238,
+            "y": 31840,
+            "z": 9
+        },
+        {
+            "name": "Rotworm Cave (Darashia)"
+            "x": 32779,
+            "y": 31604,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Smuggler Baron Silvertoe",
@@ -368,7 +745,15 @@
     "windowMax": 15,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Bandit Caves (Port Hope)"
+            "x": 32541,
+            "y": 32648,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "The Big Bad One",
@@ -377,7 +762,15 @@
     "windowMax": 11,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Edron"
+            "x": 33173,
+            "y": 31678,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "The Evil Eye",
@@ -386,7 +779,15 @@
     "windowMax": 12,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Hellgate Library (Ab'Dendriel)"
+            "x": 32806,
+            "y": 31611,
+            "z": 14
+        }
+    ]
   },
   {
     "name": "The Old Whopper",
@@ -395,7 +796,15 @@
     "windowMax": 10,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Cyclopolis (Edron)"
+            "x": 33313,
+            "y": 31667,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "White Pale",
@@ -404,7 +813,27 @@
     "windowMax": 28,
     "spawnPoints": 3,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Rotworm Cave (Edron)"
+            "x": 33268,
+            "y": 31872,
+            "z": 11
+        },
+        {
+            "name": "Rotworm Cave (Darashia)"
+            "x": 33131,
+            "y": 32430,
+            "z": 9
+        },
+        {
+            "name": "Rotworm Cave (Liberty Bay)"
+            "x": 32225,
+            "y": 32760,
+            "z": 10
+        }
+    ]
   },
   {
     "name": "Yaga the Crone",
@@ -413,7 +842,15 @@
     "windowMax": 7,
     "spawnPoints": 1,
     "category": "Stealth Ring",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Green Claw Swamp (Venore)"
+            "x": 32712,
+            "y": 32011,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Albino Dragon",
@@ -422,7 +859,39 @@
     "windowMin": 1,
     "windowMax": 1,
     "spawnPoints": 5,
-    "category": "Other"
+    "category": "Other",
+    "location": [
+        {
+            "name": "Dragon Lair (Ankrahmun)"
+            "x": 33090,
+            "y": 32594,
+            "z": 5
+        },
+        {
+            "name": "Dragon Lair (Farmine)"
+            "x": 33156,
+            "y": 31270,
+            "z": 5
+        },
+        {
+            "name": "Dragon Lair (Fenrock)"
+            "x": 32592,
+            "y": 31383,
+            "z": 15
+        },
+        {
+            "name": "Dragon Lair (Goroma)"
+            "x": 32086,
+            "y": 32566,
+            "z": 14
+        },
+        {
+            "name": "Pits of Inferno"
+            "x": 32770,
+            "y": 32311,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Captain Jones",
@@ -431,7 +900,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Ghost Ship (Darashia)"
+            "x": 33321,
+            "y": 32183,
+            "z": 7
+        }
+    ]
   },
   {
     "name": "Dharalion",
@@ -440,16 +917,38 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Shadowthorn (Venore)"
+            "x": 33040,
+            "y": 32177,
+            "z": 9
+        }
+    ]
   },
   {
     "name": "Foreman Kneebiter",
     "raceName": "Foreman Kneebiter",
     "windowMin": 3,
     "windowMax": 6,
-    "spawnPoints": 1,
+    "spawnPoints": 2,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Dwarf Mines (Kazordoon)"
+            "x": 32553,
+            "y": 31897,
+            "z": 14
+        },
+        {
+            "name": "Dwarf Mines (Kazordoon)"
+            "x": 32555,
+            "y": 31880,
+            "z": 15
+        }
+    ]
   },
   {
     "name": "Grandfather Tridian",
@@ -458,7 +957,15 @@
     "windowMax": 8,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Cult Cave (Liberty Bay)"
+            "x": 32413,
+            "y": 32778,
+            "z": 11
+        }
+    ]
   },
   {
     "name": "Gravelord Oshuran",
@@ -467,7 +974,15 @@
     "windowMax": 12,
     "spawnPoints": 1,
     "category": "Other",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Drefia (Darashia)"
+            "x": 32979,
+            "y": 32395,
+            "z": 12
+        }
+    ]
   },
   {
     "name": "Grorlam",
@@ -476,7 +991,15 @@
     "windowMin": 2,
     "windowMax": 10,
     "spawnPoints": 7,
-    "category": "Other"
+    "category": "Other",
+    "location": [
+        {
+            "name": "Several spots inside Mount Sternum (Thais)"
+            "x": 32483,
+            "y": 32058,
+            "z": 8
+        }
+    ]
   },
   {
     "name": "Hairman The Huge",
