@@ -6,7 +6,15 @@
     "windowMax": 175,
     "spawnPoints": 1,
     "category": "World Bosses",
-    "predict": true
+    "predict": true,
+    "location": [
+        {
+            "name": "Ferumbras' Citadel (Goroma)"
+            "x": 32121,
+            "y": 32687,
+            "z": 4
+        }
+    ],
   },
   {
     "name": "Ghazbaran",
