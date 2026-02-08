@@ -590,7 +590,7 @@
     "predict": true,
     "location": [
         {
-            "name": "WOTE (Farmine)"
+            "name": "WOTE (Farmine)",
             "x": 33085,
             "y": 31103,
             "z": 14
@@ -862,31 +862,31 @@
     "category": "Other",
     "location": [
         {
-            "name": "Dragon Lair (Ankrahmun)"
+            "name": "Dragon Lair (Ankrahmun)",
             "x": 33090,
             "y": 32594,
             "z": 5
         },
         {
-            "name": "Dragon Lair (Farmine)"
+            "name": "Dragon Lair (Farmine)",
             "x": 33156,
             "y": 31270,
             "z": 5
         },
         {
-            "name": "Dragon Lair (Fenrock)"
+            "name": "Dragon Lair (Fenrock)",
             "x": 32592,
             "y": 31383,
             "z": 15
         },
         {
-            "name": "Dragon Lair (Goroma)"
+            "name": "Dragon Lair (Goroma)",
             "x": 32086,
             "y": 32566,
             "z": 14
         },
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32770,
             "y": 32311,
             "z": 12
@@ -1084,19 +1084,19 @@
     "category": "Other",
     "location": [
         {
-            "name": "Tiquanda (Port hope)"
+            "name": "Tiquanda (Port hope)",
             "x": 32854,
             "y": 32744,
             "z": 7
         },
         {
-            "name": "Tiquanda (Port hope)"
+            "name": "Tiquanda (Port hope)",
             "x": 32831,
             "y": 32706,
             "z": 7
         },
         {
-            "name": "Tiquanda (Port hope)"
+            "name": "Tiquanda (Port hope)",
             "x": 32886,
             "y": 32721,
             "z": 7
@@ -1509,55 +1509,55 @@
     "predict": true,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33189,
             "y": 31236,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33215,
             "y": 31228,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33234,
             "y": 31186,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33286,
             "y": 31251,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33253,
             "y": 31162,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33291,
             "y": 31158,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33333,
             "y": 31188,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33110,
             "y": 31079,
             "z": 10
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33058,
             "y": 31116,
             "z": 10
@@ -1736,49 +1736,49 @@
     "predict": false,
     "location": [
         {
-            "name": "Treasure Island (Liberty Bay)"
+            "name": "Treasure Island (Liberty Bay)",
             "x": 32181,
             "y": 32939,
             "z": 9
         },
         {
-            "name": "Calassa (Liberty Bay))"
+            "name": "Calassa (Liberty Bay))",
             "x": 32113,
             "y": 32733,
             "z": 12
         },
         {
-            "name": "Calassa (Liberty Bay))"
+            "name": "Calassa (Liberty Bay))",
             "x": 32114,
             "y": 32804,
             "z": 12
         },
         {
-            "name": "Seacrest Grounds (Oramond)"
+            "name": "Seacrest Grounds (Oramond)",
             "x": 33517,
             "y": 31804,
             "z": 15
         },
         {
-            "name": "Seacrest Grounds (Oramond)"
+            "name": "Seacrest Grounds (Oramond)",
             "x": 33471,
             "y": 31654,
             "z": 15
         },
         {
-            "name": "Seacrest Grounds (Oramond)"
+            "name": "Seacrest Grounds (Oramond)",
             "x": 33507,
             "y": 31635,
             "z": 14
         },
         {
-            "name": "Seacrest Grounds (Oramond)"
+            "name": "Seacrest Grounds (Oramond)",
             "x": 33534,
             "y": 31658,
             "z": 15
         },
         {
-            "name": "Seacrest Grounds (Oramond)"
+            "name": "Seacrest Grounds (Oramond)",
             "x": 33555,
             "y": 31788,
             "z": 14
