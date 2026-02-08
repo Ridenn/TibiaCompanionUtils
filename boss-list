@@ -9,7 +9,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Ferumbras' Citadel (Goroma)"
+            "name": "Ferumbras' Citadel (Goroma)",
             "x": 32121,
             "y": 32687,
             "z": 4
@@ -26,7 +26,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Formorgar Mines (Svargrond)"
+            "name": "Formorgar Mines (Svargrond)",
             "x": 32227,
             "y": 31157,
             "z": 15
@@ -43,7 +43,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Goroma (Liberty Bay)"
+            "name": "Goroma (Liberty Bay)",
             "x": 32061,
             "y": 32615,
             "z": 14
@@ -59,7 +59,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Azzilon Castle (Edron)"
+            "name": "Azzilon Castle (Edron)",
             "x": 33925,
             "y": 32337,
             "z": 8
@@ -75,7 +75,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Edron"
+            "name": "Edron",
             "x": 33265,
             "y": 31772,
             "z": 7
@@ -92,7 +92,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Edron"
+            "name": "Edron",
             "x": 33265,
             "y": 31772,
             "z": 7
@@ -124,7 +124,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Fury Gate (Edron)"
+            "name": "Fury Gate (Edron)",
             "x": 33314,
             "y": 31842,
             "z": 15
@@ -141,7 +141,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Svargrond"
+            "name": "Svargrond",
             "x": 32133,
             "y": 31147,
             "z": 2
@@ -158,7 +158,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Nibelor (Svargrond)"
+            "name": "Nibelor (Svargrond)",
             "x": 32351,
             "y": 31052,
             "z": 7
@@ -175,7 +175,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Roshamuul Prison (Roshamuul)"
+            "name": "Roshamuul Prison (Roshamuul)",
             "x": 33589,
             "y": 32379,
             "z": 12
@@ -192,7 +192,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Earth Elemental Cave (Edron)"
+            "name": "Earth Elemental Cave (Edron)",
             "x": 33169,
             "y": 31732,
             "z": 9
@@ -209,7 +209,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Drefia (Darashia)"
+            "name": "Drefia (Darashia)",
             "x": 32966,
             "y": 32421,
             "z": 14
@@ -226,7 +226,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Tiquanda (Port Hope)"
+            "name": "Tiquanda (Port Hope)",
             "x": 33027,
             "y": 32658,
             "z": 5
@@ -243,13 +243,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Drefia (Darashia)"
+            "name": "Drefia (Darashia)",
             "x": 33048,
             "y": 32377,
             "z": 14
         },
         {
-            "name": "Wyrm Cave (Liberty Bay)"
+            "name": "Wyrm Cave (Liberty Bay)",
             "x": 32440,
             "y": 32838,
             "z": 9
@@ -266,7 +266,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Folda (Carlin)"
+            "name": "Folda (Carlin)",
             "x": 32006,
             "y": 31596,
             "z": 7
@@ -283,7 +283,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Ice Witch Temple (Svargrond)"
+            "name": "Ice Witch Temple (Svargrond)",
             "x": 31942,
             "y": 31387,
             "z": 9
@@ -300,7 +300,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32838,
             "y": 32307,
             "z": 15
@@ -317,7 +317,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32794,
             "y": 32363,
             "z": 15
@@ -334,7 +334,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32872,
             "y": 32280,
             "z": 15
@@ -351,7 +351,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32762,
             "y": 32243,
             "z": 15
@@ -368,7 +368,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32785,
             "y": 32285,
             "z": 15
@@ -385,7 +385,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32891,
             "y": 32236,
             "z": 15
@@ -402,7 +402,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Pits of Inferno"
+            "name": "Pits of Inferno",
             "x": 32853,
             "y": 32331,
             "z": 15
@@ -419,7 +419,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Drefia (Darashia)"
+            "name": "Drefia (Darashia)",
             "x": 32969,
             "y": 32399,
             "z": 12
@@ -436,7 +436,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Nargor Undead Cave (Liberty Bay)"
+            "name": "Nargor Undead Cave (Liberty Bay)",
             "x": 32008,
             "y": 32793,
             "z": 10
@@ -453,7 +453,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Undead Cave (Edron)"
+            "name": "Undead Cave (Edron)",
             "x": 33413,
             "y": 31845,
             "z": 10
@@ -470,7 +470,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Hellgate (Ab'Dendriel)"
+            "name": "Hellgate (Ab'Dendriel)",
             "x": 32769,
             "y": 31581,
             "z": 11
@@ -486,19 +486,19 @@
     "predict": false,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33208,
             "y": 31241,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33237,
             "y": 31240,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33284,
             "y": 31241,
             "z": 7
@@ -515,13 +515,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33270,
             "y": 31163,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33296,
             "y": 31149,
             "z": 7
@@ -538,13 +538,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33180,
             "y": 31220,
             "z": 7
         },
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33251,
             "y": 31152,
             "z": 7
@@ -561,19 +561,19 @@
     "predict": false,
     "location": [
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33092,
             "y": 31384,
             "z": 8
         },
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33112,
             "y": 31457,
             "z": 8
         },
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33251,
             "y": 31423,
             "z": 7
@@ -598,8 +598,8 @@
     ]
   },
   {
-    "name": "The Voice Of Ruin",
-    "raceName": "The Voice Of Ruin",
+    "name": "The Voice of Ruin",
+    "raceName": "The Voice of Ruin",
     "windowMin": 6,
     "windowMax": 9,
     "spawnPoints": 2,
@@ -607,13 +607,13 @@
     "predict": false,
     "location": [
         {
-            "name": "Corruption Hole (Farmine)"
+            "name": "Corruption Hole (Farmine)",
             "x": 33313,
             "y": 31132,
             "z": 9
         },
         {
-            "name": "Corruption Hole (Farmine)"
+            "name": "Corruption Hole (Farmine)",
             "x": 33380,
             "y": 31087,
             "z": 9
@@ -629,7 +629,7 @@
     "category": "Stealth Ring",
     "location": [
         {
-            "name": "Hunter Camp (Port Hope)"
+            "name": "Hunter Camp (Port Hope)",
             "x": 32887,
             "y": 32787,
             "z": 7
@@ -646,7 +646,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Barbarian Camp, Krimhorn (Svargrond)"
+            "name": "Barbarian Camp, Krimhorn (Svargrond)",
             "x": 32007,
             "y": 31415,
             "z": 7
@@ -663,7 +663,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Troll Cave (Edron)"
+            "name": "Troll Cave (Edron)",
             "x": 33134,
             "y": 31721,
             "z": 10
@@ -680,7 +680,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Mintwallin (Thais)"
+            "name": "Mintwallin (Thais)",
             "x": 32414,
             "y": 32119,
             "z": 15
@@ -696,7 +696,7 @@
     "category": "Stealth Ring",
     "location": [
         {
-            "name": "Hunter Camp (Port Hope)"
+            "name": "Hunter Camp (Port Hope)",
             "x": 32887,
             "y": 32787,
             "z": 7
@@ -713,25 +713,25 @@
     "predict": true,
     "location": [
         {
-            "name": "Rotworm Cave (Darashia)"
+            "name": "Rotworm Cave (Darashia)",
             "x": 33046,
             "y": 32373,
             "z": 9
         },
         {
-            "name": "Rotworm Cave (Liberty Bay)"
+            "name": "Rotworm Cave (Liberty Bay)",
             "x": 32263,
             "y": 32689,
             "z": 10
         },
         {
-            "name": "Rotworm Cave (Darashia)"
+            "name": "Rotworm Cave (Darashia)",
             "x": 33238,
             "y": 31840,
             "z": 9
         },
         {
-            "name": "Rotworm Cave (Darashia)"
+            "name": "Rotworm Cave (Darashia)",
             "x": 32779,
             "y": 31604,
             "z": 12
@@ -748,7 +748,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Bandit Caves (Port Hope)"
+            "name": "Bandit Caves (Port Hope)",
             "x": 32541,
             "y": 32648,
             "z": 10
@@ -765,7 +765,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Edron"
+            "name": "Edron",
             "x": 33173,
             "y": 31678,
             "z": 7
@@ -782,7 +782,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Hellgate Library (Ab'Dendriel)"
+            "name": "Hellgate Library (Ab'Dendriel)",
             "x": 32806,
             "y": 31611,
             "z": 14
@@ -799,7 +799,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Cyclopolis (Edron)"
+            "name": "Cyclopolis (Edron)",
             "x": 33313,
             "y": 31667,
             "z": 11
@@ -816,19 +816,19 @@
     "predict": true,
     "location": [
         {
-            "name": "Rotworm Cave (Edron)"
+            "name": "Rotworm Cave (Edron)",
             "x": 33268,
             "y": 31872,
             "z": 11
         },
         {
-            "name": "Rotworm Cave (Darashia)"
+            "name": "Rotworm Cave (Darashia)",
             "x": 33131,
             "y": 32430,
             "z": 9
         },
         {
-            "name": "Rotworm Cave (Liberty Bay)"
+            "name": "Rotworm Cave (Liberty Bay)",
             "x": 32225,
             "y": 32760,
             "z": 10
@@ -845,7 +845,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Green Claw Swamp (Venore)"
+            "name": "Green Claw Swamp (Venore)",
             "x": 32712,
             "y": 32011,
             "z": 11
@@ -903,7 +903,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Ghost Ship (Darashia)"
+            "name": "Ghost Ship (Darashia)",
             "x": 33321,
             "y": 32183,
             "z": 7
@@ -920,7 +920,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Shadowthorn (Venore)"
+            "name": "Shadowthorn (Venore)",
             "x": 33040,
             "y": 32177,
             "z": 9
@@ -937,13 +937,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Dwarf Mines (Kazordoon)"
+            "name": "Dwarf Mines (Kazordoon)",
             "x": 32553,
             "y": 31897,
             "z": 14
         },
         {
-            "name": "Dwarf Mines (Kazordoon)"
+            "name": "Dwarf Mines (Kazordoon)",
             "x": 32555,
             "y": 31880,
             "z": 15
@@ -960,7 +960,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Cult Cave (Liberty Bay)"
+            "name": "Cult Cave (Liberty Bay)",
             "x": 32413,
             "y": 32778,
             "z": 11
@@ -977,7 +977,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Drefia (Darashia)"
+            "name": "Drefia (Darashia)",
             "x": 32979,
             "y": 32395,
             "z": 12
@@ -994,7 +994,7 @@
     "category": "Other",
     "location": [
         {
-            "name": "Several spots inside Mount Sternum (Thais)"
+            "name": "Several spots inside Mount Sternum (Thais)",
             "x": 32483,
             "y": 32058,
             "z": 8
@@ -1011,7 +1011,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Banuta (Port Hope)"
+            "name": "Banuta (Port Hope)",
             "x": 32846,
             "y": 32509,
             "z": 8
@@ -1028,7 +1028,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Chor (Port Hope)"
+            "name": "Chor (Port Hope)",
             "x": 32957,
             "y": 32842,
             "z": 8
@@ -1045,13 +1045,13 @@
     "predict": false,
     "location": [
         {
-            "name": "Formorgar Mines (Svargrond)"
+            "name": "Formorgar Mines (Svargrond)",
             "x": 32145,
             "y": 31257,
             "z": 10
         },
         {
-            "name": "Nibelor (Svargrond)"
+            "name": "Nibelor (Svargrond)",
             "x": 32366,
             "y": 31053,
             "z": 8
@@ -1067,7 +1067,7 @@
     "category": "Other",
     "location": [
         {
-            "name": "Mawhawk's Lair (Lower Roshamuul)"
+            "name": "Mawhawk's Lair (Lower Roshamuul)",
             "x": 33699,
             "y": 32462,
             "z": 7
@@ -1113,7 +1113,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Dark Cathedral (Plains of Havoc)"
+            "name": "Dark Cathedral (Plains of Havoc)",
             "x": 32601,
             "y": 32383,
             "z": 10
@@ -1130,7 +1130,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Alatar Lake (Thais)"
+            "name": "Alatar Lake (Thais)",
             "x": 32383,
             "y": 32128,
             "z": 7
@@ -1147,7 +1147,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Forbidden Temple (Ankrahmun)"
+            "name": "Forbidden Temple (Ankrahmun)",
             "x": 33326,
             "y": 32657,
             "z": 11
@@ -1164,7 +1164,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Orc Fortress (Kazordoon)"
+            "name": "Orc Fortress (Kazordoon)",
             "x": 32976,
             "y": 31717,
             "z": 5
@@ -1181,13 +1181,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Amazon Camp (Venore)"
+            "name": "Amazon Camp (Venore)",
             "x": 32891,
             "y": 31887,
             "z": 8
         },
         {
-            "name": "Amazon Camp (Venore)"
+            "name": "Amazon Camp (Venore)",
             "x": 32891,
             "y": 31887,
             "z": 9
@@ -1204,7 +1204,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Demona (Ab'Dendriel)"
+            "name": "Demona (Ab'Dendriel)",
             "x": 32508,
             "y": 31582,
             "z": 14
@@ -1220,7 +1220,7 @@
     "category": "Bank Robber",
     "location": [
         {
-            "name": "Dwarf Mines (Kazordoon)"
+            "name": "Dwarf Mines (Kazordoon)",
             "x": 32531,
             "y": 31926,
             "z": 11
@@ -1236,7 +1236,7 @@
     "category": "Bank Robber",
     "location": [
         {
-            "name": "Ancient Temple (Thais)"
+            "name": "Ancient Temple (Thais)",
             "x": 32372,
             "y": 32221,
             "z": 11
@@ -1252,7 +1252,7 @@
     "category": "Bank Robber",
     "location": [
         {
-            "name": "Shadowthorn (Venore)"
+            "name": "Shadowthorn (Venore)",
             "x": 33087,
             "y": 32157,
             "z": 7
@@ -1268,7 +1268,7 @@
     "category": "Bank Robber",
     "location": [
         {
-            "name": "Ghostlands (Carlin)"
+            "name": "Ghostlands (Carlin)",
             "x": 32198,
             "y": 31809,
             "z": 9
@@ -1284,7 +1284,7 @@
     "category": "Varying Spawn",
     "location": [
         {
-            "name": "Otherworld (Kazordoon)"
+            "name": "Otherworld (Kazordoon)",
             "x": 32449,
             "y": 32416,
             "z": 10
@@ -1300,7 +1300,7 @@
     "category": "Varying Spawn",
     "location": [
         {
-            "name": "Otherworld (Edron)"
+            "name": "Otherworld (Edron)",
             "x": 32021,
             "y": 31379,
             "z": 11
@@ -1316,7 +1316,7 @@
     "category": "Varying Spawn",
     "location": [
         {
-            "name": "Forgotten Tomb (Ankrahmun)"
+            "name": "Forgotten Tomb (Ankrahmun)",
             "x": 33390,
             "y": 31702,
             "z": 13
@@ -1332,7 +1332,7 @@
     "category": "Hive Outpost",
     "location": [
         {
-            "name": "Hive Outpost (Liberty Bay)"
+            "name": "Hive Outpost (Liberty Bay)",
             "x": 32155,
             "y": 32862,
             "z": 9
@@ -1348,7 +1348,7 @@
     "category": "Hive Outpost",
     "location": [
         {
-            "name": "Hive Outpost (Liberty Bay)"
+            "name": "Hive Outpost (Liberty Bay)",
             "x": 32167,
             "y": 32865,
             "z": 9
@@ -1364,7 +1364,7 @@
     "category": "Hive Outpost",
     "location": [
         {
-            "name": "Hive Outpost (Liberty Bay)"
+            "name": "Hive Outpost (Liberty Bay)",
             "x": 32167,
             "y": 32865,
             "z": 9
@@ -1380,7 +1380,7 @@
     "category": "Rookgaard",
     "location": [
         {
-            "name": "Rat Cave (Rookgaard)"
+            "name": "Rat Cave (Rookgaard)",
             "x": 32102,
             "y": 32217,
             "z": 9
@@ -1397,7 +1397,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Isle of Mists (Plains of Havoc)"
+            "name": "Isle of Mists (Plains of Havoc)",
             "x": 32854,
             "y": 32333,
             "z": 7
@@ -1414,7 +1414,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Zzaion (Farmine)"
+            "name": "Zzaion (Farmine)",
             "x": 33347,
             "y": 31609,
             "z": 1
@@ -1431,19 +1431,19 @@
     "predict": true,
     "location": [
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33090,
             "y": 31391,
             "z": 7
         },
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33229,
             "y": 31428,
             "z": 7
         },
         {
-            "name": "Zao Steppe (Farmine)"
+            "name": "Zao Steppe (Farmine)",
             "x": 33317,
             "y": 31453,
             "z": 7
@@ -1460,7 +1460,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Roshamuul Prison (Roshamuul)"
+            "name": "Roshamuul Prison (Roshamuul)",
             "x": 33630,
             "y": 32372,
             "z": 5
@@ -1477,7 +1477,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Carlin"
+            "name": "Carlin",
             "x": 32345,
             "y": 31704,
             "z": 7
@@ -1493,7 +1493,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33309,
             "y": 31173,
             "z": 7
@@ -1618,13 +1618,13 @@
     "predict": true,
     "location": [
         {
-            "name": "Katana Quest (Rookgaard)"
+            "name": "Katana Quest (Rookgaard)",
             "x": 32180,
             "y": 32149,
             "z": 11
         },
         {
-            "name": "Poison Spider Cave (Rookgaard)"
+            "name": "Poison Spider Cave (Rookgaard)",
             "x": 31975,
             "y": 32066,
             "z": 13
@@ -1640,7 +1640,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Premium Area (Rookgaard)"
+            "name": "Premium Area (Rookgaard)",
             "x": 31981,
             "y": 32246,
             "z": 10
@@ -1656,7 +1656,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Zzaion (Farmine)"
+            "name": "Zzaion (Farmine)",
             "x": 33351,
             "y": 31609,
             "z": 2
@@ -1672,7 +1672,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Muggy Plains (Farmine)"
+            "name": "Muggy Plains (Farmine)",
             "x": 33306,
             "y": 31154,
             "z": 7
@@ -1688,7 +1688,7 @@
     "predict": true,
     "location": [
         {
-            "name": "Darashia"
+            "name": "Darashia",
             "x": 33159,
             "y": 32427,
             "z": 7
@@ -1704,7 +1704,7 @@
     "predict": false,
     "location": [
         {
-            "name": "Grimvale (Edron)"
+            "name": "Grimvale (Edron)",
             "x": 33298,
             "y": 31722,
             "z": 7
@@ -1720,7 +1720,7 @@
     "predict": false,
     "location": [
         {
-            "name": "The Hive (Gray Beach)"
+            "name": "The Hive (Gray Beach)",
             "x": 33522,
             "y": 31254,
             "z": 8
@@ -1794,7 +1794,7 @@
     "predict": false,
     "location": [
         {
-            "name": "Sunken Mines (Kazordoon)"
+            "name": "Sunken Mines (Kazordoon)",
             "x": 32629,
             "y": 32020,
             "z": 10
@@ -1810,7 +1810,7 @@
     "predict": false,
     "location": [
         {
-            "name": "Sunken Mines (Kazordoon)"
+            "name": "Sunken Mines (Kazordoon)",
             "x": 33506,
             "y": 31246,
             "z": 8
@@ -1826,7 +1826,7 @@
     "predict": false,
     "location": [
         {
-            "name": "The Hive (Gray Beach)"
+            "name": "The Hive (Gray Beach)",
             "x": 33457,
             "y": 31222,
             "z": 8
@@ -1842,7 +1842,7 @@
     "predict": false,
     "location": [
         {
-            "name": "The Hive (Gray Beach)"
+            "name": "The Hive (Gray Beach)",
             "x": 33450,
             "y": 31228,
             "z": 8
@@ -1858,7 +1858,7 @@
     "predict": false,
     "location": [
         {
-            "name": "The Hive (Gray Beach)"
+            "name": "The Hive (Gray Beach)",
             "x": 33480,
             "y": 31233,
             "z": 8
@@ -1874,7 +1874,7 @@
     "predict": false,
     "location": [
         {
-            "name": "Formorgar Mines (Svargrond)"
+            "name": "Formorgar Mines (Svargrond)",
             "x": 32205,
             "y": 31003,
             "z": 14
@@ -1890,7 +1890,7 @@
     "predict": false,
     "location": [
         {
-            "name": "Book World (Edron)"
+            "name": "Book World (Edron)",
             "x": 32538,
             "y": 32512,
             "z": 10
