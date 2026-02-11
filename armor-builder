@@ -501,7 +501,7 @@
       { "name": "Cobra Boots", "vocations": ["DRUID"] },
       { "name": "Depth Calcei", "vocations": ["DRUID"] },
       { "name": "Frostflower Boots", "vocations": ["DRUID"] },
-      { "name": "Norcferatu Goretrappers", "vocations": ["DRUID"] },
+      { "name": "Norcferatu Goretrampers", "vocations": ["DRUID"] },
       { "name": "Stag Shinguards", "vocations": ["KNIGHT"] },
       { "name": "Stag Footwraps", "vocations": ["PALADIN"] },
       { "name": "Metal Spats", "vocations": ["DRUID", "KNIGHT"] },
