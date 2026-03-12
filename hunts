@@ -51,6 +51,38 @@
             "600x Ultimate Mana Potion",
             "1500x Avalanche Rune"
         ],
+        "charms": [
+          {
+            "monsterName": "Sphinx",
+            "charmName": "Poison",
+            "charmType": "MAJOR"
+          },
+          {
+            "monster": "Lamassu",
+            "charm": "Wound",
+            "type": "MAJOR"
+          },
+          {
+            "monster": "Manticore",
+            "charm": "Freeze",
+            "type": "MAJOR"
+          },
+          {
+            "monster": "Adult Goanna",
+            "charm": "Zap",
+            "type": "MAJOR"
+          },
+          {
+            "monster": "Young Goanna",
+            "charm": "Divine Wrath",
+            "type": "MAJOR"
+          },
+          {
+            "monster": "Feral Sphinx",
+            "charm": "Curse",
+            "type": "MAJOR"
+          }
+        ],
         "location": {
             "x": 33812,
             "y": 31582,
@@ -10973,6 +11005,7 @@
         "pathToNew": null
     }
 ]
+
 
 
 
