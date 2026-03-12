@@ -1895,9 +1895,9 @@
         "supplies": [
             "Great Mana Potion",
             "Great Spirit Potion",
-            "Ultimate Spirit Potion",
-            "Bone Fiddle"
+            "Ultimate Spirit Potion"
         ],
+        "trinket": "Bone Fiddle",
         "imbuements": [
             {
                 "name": "Strike",
@@ -11005,6 +11005,7 @@
         "pathToNew": null
     }
 ]
+
 
 
 
