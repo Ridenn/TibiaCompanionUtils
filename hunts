@@ -10124,7 +10124,7 @@
     {
         "id": "nomad-cave-knight-1",
         "name": "Nomad Cave",
-        "imageMonster": "Nomad (Basic)",
+        "imageMonster": "Nomad",
         "vocations": [
             "Knight"
         ],
@@ -10139,7 +10139,7 @@
         "videoUrl": "https://youtu.be/vXDcm6duoXs",
         "access": "Ankrahmun (premium)",
         "monsters": [
-            "Nomad (Basic"
+            "Nomad"
         ],
         "bestLoot": [
             {
@@ -10834,7 +10834,6 @@
         "imageMonster": "Gazer Spectre",
         "vocations": [
             "Knight",
-            "Paladin",
             "Druid"
         ],
         "minLevel": 180,
@@ -10892,6 +10891,62 @@
         "imageMonster": "Gazer Spectre",
         "vocations": [
             "Knight",
+            "Druid"
+        ],
+        "minLevel": 200,
+        "maxLevel": 320,
+        "rawXpMin": 1000000,
+        "rawXpMax": 3000000,
+        "xp150Min": 1500000,
+        "xp150Max": 4500000,
+        "profitMin": 200000,
+        "profitMax": 650000,
+        "videoUrl": "https://youtu.be/Y1v7sxDI-WQ",
+        "access": "Port Hope (premium)",
+        "monsters": [
+            "Thanatursus",
+            "Gazer Spectre"
+        ],
+        "bestLoot": [
+            {
+                "name": "Hexagonal Ruby",
+                "chance": "2.05%",
+                "price": "30k"
+            },
+            {
+                "name": "Ornate Crossbow",
+                "chance": "0.58%",
+                "price": "12k"
+            },
+            {
+                "name": "Warrior's Axe",
+                "chance": "1.71%",
+                "price": "11k"
+            }
+        ],
+        "strategy": "hunt_strategy_haunted_temple_duo_1",
+        "supplies": [],
+        "location": {
+            "x": 32676,
+            "y": 32651,
+            "z": 7
+        },
+        "teamSize": "DUO",
+        "areaStatus": "PREMIUM",
+        "requirements": [
+            {
+                "type": "Quest",
+                "name": "hunt_req_quest_dream_courts_haunted_house",
+                "url": "https://tibia.fandom.com/wiki/The_Dream_Courts_Quest#Haunted_House"
+            }
+        ],
+        "pathToNew": null
+    },
+    {
+        "id": "haunted-temple-duo-3",
+        "name": "Haunted Temple",
+        "imageMonster": "Gazer Spectre",
+        "vocations": [
             "Paladin",
             "Druid"
         ],
