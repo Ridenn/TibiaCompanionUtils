@@ -790,7 +790,12 @@
             }
         ],
         "strategy": "hunt_strategy_asura_palace_squad_1",
-        "supplies": [],
+        "supplies": {
+            "Knight": ["Dwarven Ring"],
+            "Paladin": ["Dwarven Ring"],
+            "Sorcerer": ["Dwarven Ring", "Thunderstorm Rune"],
+            "Druid": ["Dwarven Ring", "Thunderstorm Rune", "Wild Growth Rune"],
+        },
         "suppliesByVocation": {
             "Knight": ["Dwarven Ring"],
             "Paladin": ["Dwarven Ring"],
