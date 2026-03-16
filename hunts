@@ -10587,6 +10587,9 @@
         ],
         "strategy": "hunt_strategy_kilmaresh_catacombs_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["100x Supreme Health Potion", "1500x Strong Mana Potion", "120x Magic Wall Rune"]
+        },
         "location": {
             "x": 33882,
             "y": 31474,
@@ -10651,6 +10654,9 @@
         ],
         "strategy": "hunt_strategy_kilmaresh_catacombs_duo_2",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["20x Supreme Health Potion", "100x Ultimate Health Potion", "50x Great Mana Potion", "1300x Strong Mana Potion"]
+        },
         "location": {
             "x": 33882,
             "y": 31474,
@@ -10716,6 +10722,9 @@
         ],
         "strategy": "hunt_strategy_kilmaresh_puzzle_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["150x Supreme Health Potion", "2000x Strong Mana Potion", "150x Magic Wall Rune"]
+        },
         "location": {
             "x": 33813,
             "y": 31623,
@@ -10779,6 +10788,10 @@
         ],
         "strategy": "hunt_strategy_ancient_ancestorial_grounds_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["50x Supreme Health Potion", "150x Ultimate Mana Potion", "2000x Strong Mana Potion"],
+            "Druid": ["1000x Ultimate Mana Potion", "1000x Stone Shower Rune"]
+        },
         "location": {
             "x": 33575,
             "y": 31440,
@@ -10840,6 +10853,10 @@
         ],
         "strategy": "hunt_strategy_court_of_winter_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Paladin": ["200x Ultimate Spirit Potion", "1000x Great Mana Potion", "500x Great Fireball Rune", "1000x Diamond Arrow", "6x Bullseye Potion", "10x Glacier Amulet", "2x Energy Ring", "2x Ring of Blue Plasma", "1x Prismatic Ring"],
+            "Sorcerer": ["300x Ultimate Mana Potion", "150x Ultimate Healing Rune", "6x Mastermind Potion", "800x Great Fireball Rune", "20x Fire Bomb Rune", "10x Glacier Amulet", "2x Ring of Green Plasma"]
+        },
         "location": {
             "x": 33698,
             "y": 32122,
@@ -10897,6 +10914,10 @@
         ],
         "strategy": "hunt_strategy_haunted_temple_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["50x Ultimate Health Potion", "50x Great Health Potion", "1500x Mana Potion"],
+            "Druid": ["300x Ultimate Mana Potion", "1000x Avalanche Rune"]
+        },
         "location": {
             "x": 32676,
             "y": 32651,
@@ -10954,6 +10975,10 @@
         ],
         "strategy": "hunt_strategy_haunted_temple_duo_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["200x Supreme Health Potion", "50x Ultimate Health Potion", "1200x Mana Potion"],
+            "Druid": ["600x Ultimate Mana Potion", "1000x Avalanche Rune"]
+        },
         "location": {
             "x": 32676,
             "y": 32651,
