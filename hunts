@@ -791,6 +791,12 @@
         ],
         "strategy": "hunt_strategy_asura_palace_squad_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["Dwarven Ring"],
+            "Paladin": ["Dwarven Ring"],
+            "Sorcerer": ["Dwarven Ring", "Thunderstorm Rune"],
+            "Druid": ["Dwarven Ring", "Thunderstorm Rune", "Wild Growth Rune"],
+        },
         "location": {
             "x": 32949,
             "y": 32679,
@@ -844,6 +850,12 @@
         ],
         "strategy": "hunt_strategy_haunted_temple_squad_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["30x Ultimate Health Potion", "20x Garlic Necklace"],
+            "Paladin": ["200x Ultimate Spirit Potion"],
+            "Sorcerer": ["300x Ultimate Mana Potion", "700x Avalanche Rune"],
+            "Druid": ["300x Ultimate Mana Potion", "700x Avalanche Rune"]
+        },
         "location": {
             "x": 32676,
             "y": 32651,
@@ -904,6 +916,10 @@
         ],
         "strategy": "hunt_strategy_lower_roshamuul_squad_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Sorcerer": ["Avalanche Rune", "Ultimate Healing Rune"],
+            "Druid": ["Avalanche Rune", "Fire Bomb Rune"],
+        },
         "location": {
             "x": 33528,
             "y": 32530,
@@ -964,6 +980,12 @@
         ],
         "strategy": "hunt_strategy_old_fortress_squad_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["60x Strong Health Potion", "300x Strong Mana Potion"],
+            "Paladin": ["40x Strong Health Potion", "200x Strong Mana Potion", "300x Burst Arrow", "15x Fire Bomb Rune"],
+            "Sorcerer": ["200x Strong Mana Potion", "200x Avalanche Rune", "15x Fire Bomb Rune"],
+            "Druid": ["200x Strong Mana Potion", "200x Avalanche Rune", "15x Fire Bomb Rune"],
+        },
         "location": {
             "x": 33261,
             "y": 31660,
@@ -1020,6 +1042,12 @@
         ],
         "strategy": "hunt_strategy_mother_of_scarabs_lair_squad_1",
         "supplies": [],
+        "suppliesByVocation": {
+            "Knight": ["20x Health Potion", "350x Mana Potion"],
+            "Paladin": ["20x Mana Potion", "100x Royal Spear"],
+            "Sorcerer": ["200x Mana Potion", "400x Great Fireball Rune"],
+            "Druid": ["200x Mana Potion", "400x Great Fireball Rune"],
+        },
         "location": {
             "x": 33357,
             "y": 32658,
@@ -11060,8 +11088,3 @@
         "pathToNew": null
     }
 ]
-
-
-
-
-
