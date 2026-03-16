@@ -800,7 +800,7 @@
             "Knight": ["Dwarven Ring"],
             "Paladin": ["Dwarven Ring"],
             "Sorcerer": ["Dwarven Ring", "Thunderstorm Rune"],
-            "Druid": ["Dwarven Ring", "Thunderstorm Rune", "Wild Growth Rune"],
+            "Druid": ["Dwarven Ring", "Thunderstorm Rune", "Wild Growth Rune"]
         },
         "location": {
             "x": 32949,
@@ -923,7 +923,7 @@
         "supplies": [],
         "suppliesByVocation": {
             "Sorcerer": ["Avalanche Rune", "Ultimate Healing Rune"],
-            "Druid": ["Avalanche Rune", "Fire Bomb Rune"],
+            "Druid": ["Avalanche Rune", "Fire Bomb Rune"]
         },
         "location": {
             "x": 33528,
@@ -989,7 +989,7 @@
             "Knight": ["60x Strong Health Potion", "300x Strong Mana Potion"],
             "Paladin": ["40x Strong Health Potion", "200x Strong Mana Potion", "300x Burst Arrow", "15x Fire Bomb Rune"],
             "Sorcerer": ["200x Strong Mana Potion", "200x Avalanche Rune", "15x Fire Bomb Rune"],
-            "Druid": ["200x Strong Mana Potion", "200x Avalanche Rune", "15x Fire Bomb Rune"],
+            "Druid": ["200x Strong Mana Potion", "200x Avalanche Rune", "15x Fire Bomb Rune"]
         },
         "location": {
             "x": 33261,
@@ -1051,7 +1051,7 @@
             "Knight": ["20x Health Potion", "350x Mana Potion"],
             "Paladin": ["20x Mana Potion", "100x Royal Spear"],
             "Sorcerer": ["200x Mana Potion", "400x Great Fireball Rune"],
-            "Druid": ["200x Mana Potion", "400x Great Fireball Rune"],
+            "Druid": ["200x Mana Potion", "400x Great Fireball Rune"]
         },
         "location": {
             "x": 33357,
