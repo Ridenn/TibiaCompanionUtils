@@ -773,7 +773,7 @@
         "startDate": "2026-03-01",
         "endDate": "2026-03-31",
         "descriptionResName": "Between the server saves of March 01 and March 31, you will be able to collect double the daily reward from reward shrines. The daily reward XP boost will last twice as long as well!",
-        "linkFandom": "https://tibia.fandom.com/wiki/Double_Daily_Reward_Events",
+        "link": "https://tibia.fandom.com/wiki/Double_Daily_Reward_Events",
         "emoji": "🎁",
         "category": "BOOST"
     }
