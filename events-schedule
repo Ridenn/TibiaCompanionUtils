@@ -43,7 +43,7 @@
         "link": "https://www.tibiawiki.com.br/wiki/Orcsoberfest",
         "linkFandom": "https://tibia.fandom.com/wiki/Orcsoberfest",
         "emoji": "👹",
-        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/2/2d/King_Chuck.gif/revision/latest?cb=20250807070522&path-prefix=en&format=original", 
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/2/2d/King_Chuck.gif/revision/latest?cb=20250807070522&path-prefix=en&format=original",
         "imageLink": "https://static.wikia.nocookie.net/tibia/images/a/a6/Orcsoberfest_Large.png/revision/latest?cb=20231016080439&path-prefix=en&format=original",
         "category": "COMMON"
     },
@@ -55,6 +55,7 @@
         "link": "https://www.tibiawiki.com.br/wiki/Ned_Nobel",
         "linkFandom": "",
         "emoji": "🎆",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Red_Confetti_Effect.gif/revision/latest?cb=20150130205907&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
@@ -64,6 +65,7 @@
         "descriptionResName": "event_desc_new_years",
         "link": "https://www.tibiawiki.com.br/wiki/Ned_Nobel",
         "emoji": "🎆",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Red_Confetti_Effect.gif/revision/latest?cb=20150130205907&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
@@ -74,6 +76,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Anivers%C3%A1rio_do_Tibia",
         "linkFandom": "https://tibia.fandom.com/wiki/Tibia_Anniversary",
         "emoji": "🎂",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/cd/Pi%C3%B1ata_Dragon.gif/revision/latest?cb=20161108200042&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/c/c9/25th_Anniversary.jpg/revision/latest/scale-to-width-down/720?cb=20220107191421&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
@@ -84,6 +88,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Anivers%C3%A1rio_do_Tibia",
         "linkFandom": "https://tibia.fandom.com/wiki/Tibia_Anniversary",
         "emoji": "🎂",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/cd/Pi%C3%B1ata_Dragon.gif/revision/latest?cb=20161108200042&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/c/c9/25th_Anniversary.jpg/revision/latest/scale-to-width-down/720?cb=20220107191421&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
@@ -94,6 +100,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_First_Dragon_Quest",
         "linkFandom": "https://tibia.fandom.com/wiki/The_First_Dragon_Quest",
         "emoji": "🐉",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/1/11/The_First_Dragon.gif/revision/latest?cb=20180128205322&path-prefix=en&format=original",
+        "imageLink": "https://www.tibiabr.com/wp-content/uploads/2025/01/firstdragon_big-1-746x540.jpg",
         "category": "ANNUAL"
     },
     {
@@ -104,6 +112,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_First_Dragon_Quest",
         "linkFandom": "https://tibia.fandom.com/wiki/The_First_Dragon_Quest",
         "emoji": "🐉",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/1/11/The_First_Dragon.gif/revision/latest?cb=20180128205322&path-prefix=en&format=original",
+        "imageLink": "https://www.tibiabr.com/wp-content/uploads/2025/01/firstdragon_big-1-746x540.jpg",
         "category": "ANNUAL"
     },
     {
@@ -114,6 +124,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Masquerade_Days",
         "linkFandom": "https://tibia.fandom.com/wiki/Masquerade_Day",
         "emoji": "🎭",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/2/20/Costume_Bag_%28Deluxe%29.gif/revision/latest?cb=20100621022029&path-prefix=en",
+        "imageLink": "",
         "category": "COMMON"
     },
     {
@@ -124,6 +136,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Masquerade_Days",
         "linkFandom": "https://tibia.fandom.com/wiki/Masquerade_Day",
         "emoji": "🎭",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/2/20/Costume_Bag_%28Deluxe%29.gif/revision/latest?cb=20100621022029&path-prefix=en",
+        "imageLink": "",
         "category": "COMMON"
     },
     {
@@ -134,6 +148,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Valentine%27s_Day",
         "linkFandom": "https://tibia.fandom.com/wiki/Valentine%27s_Day",
         "emoji": "💘",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/c1/Valentine%27s_Card.gif/revision/latest?cb=20171106160905&path-prefix=en&format=original",
+        "imageLink": "",
         "category": "HOLIDAY"
     },
     {
@@ -144,6 +160,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Valentine%27s_Day",
         "linkFandom": "https://tibia.fandom.com/wiki/Valentine%27s_Day",
         "emoji": "💘",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/c1/Valentine%27s_Card.gif/revision/latest?cb=20171106160905&path-prefix=en&format=original",
+        "imageLink": "",
         "category": "HOLIDAY"
     },
     {
@@ -154,6 +172,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/A_Piece_of_Cake",
         "linkFandom": "https://tibia.fandom.com/wiki/A_Piece_of_Cake",
         "emoji": "🍰",
+        "emojiLink": "https://www.tibiabr.com/wp-content/uploads/2018/02/cakegolem_news_sem_fundo3.png",
+        "imageLink": "https://www.tibiabr.com/wp-content/uploads/2018/02/cakegolem_news_sem_fundo3.png",
         "category": "ANNUAL"
     },
     {
@@ -164,6 +184,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/A_Piece_of_Cake",
         "linkFandom": "https://tibia.fandom.com/wiki/A_Piece_of_Cake",
         "emoji": "🍰",
+        "emojiLink": "https://www.tibiabr.com/wp-content/uploads/2018/02/cakegolem_news_sem_fundo3.png",
+        "imageLink": "https://www.tibiabr.com/wp-content/uploads/2018/02/cakegolem_news_sem_fundo3.png",
         "category": "ANNUAL"
     },
     {
