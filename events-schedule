@@ -56,6 +56,7 @@
         "linkFandom": "",
         "emoji": "🎆",
         "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Red_Confetti_Effect.gif/revision/latest?cb=20150130205907&path-prefix=en&format=original",
+        "imageLink": "https://scontent.fcgh15-1.fna.fbcdn.net/v/t39.30808-6/596929596_1279365254231260_2700570632445791889_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFKkSH6BgVIQX4AvZgZOM_MMqK7FEm1v6UyorsUSbW_pcAlYwOWGtiQAAXQ363oyptCPs4etiQyjYqxncSPRQz7&_nc_ohc=i4yz4O7Z_rsQ7kNvwHw-FlR&_nc_oc=Adoskg6EZLlp2g0W_H_TMGTzFsQcfq1TO6kvINIYCTXroMUACLCgzGxIERcIcbUJEQnFhOY0alwLxEVORkFsAhCQ&_nc_zt=23&_nc_ht=scontent.fcgh15-1.fna&_nc_gid=PxVGGPmpSn-Y0hvlI7FvqQ&_nc_ss=7a3a8&oh=00_Af1pzy4hQotWu1gAPMMwUA7d5iqlkns9ASxc5-rVacGRsw&oe=69E5E84B",
         "category": "HOLIDAY"
     },
     {
@@ -66,6 +67,7 @@
         "link": "https://www.tibiawiki.com.br/wiki/Ned_Nobel",
         "emoji": "🎆",
         "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Red_Confetti_Effect.gif/revision/latest?cb=20150130205907&path-prefix=en&format=original",
+        "imageLink": "https://scontent.fcgh15-1.fna.fbcdn.net/v/t39.30808-6/596929596_1279365254231260_2700570632445791889_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeFKkSH6BgVIQX4AvZgZOM_MMqK7FEm1v6UyorsUSbW_pcAlYwOWGtiQAAXQ363oyptCPs4etiQyjYqxncSPRQz7&_nc_ohc=i4yz4O7Z_rsQ7kNvwHw-FlR&_nc_oc=Adoskg6EZLlp2g0W_H_TMGTzFsQcfq1TO6kvINIYCTXroMUACLCgzGxIERcIcbUJEQnFhOY0alwLxEVORkFsAhCQ&_nc_zt=23&_nc_ht=scontent.fcgh15-1.fna&_nc_gid=PxVGGPmpSn-Y0hvlI7FvqQ&_nc_ss=7a3a8&oh=00_Af1pzy4hQotWu1gAPMMwUA7d5iqlkns9ASxc5-rVacGRsw&oe=69E5E84B",
         "category": "HOLIDAY"
     },
     {
@@ -149,7 +151,7 @@
         "linkFandom": "https://tibia.fandom.com/wiki/Valentine%27s_Day",
         "emoji": "💘",
         "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/c1/Valentine%27s_Card.gif/revision/latest?cb=20171106160905&path-prefix=en&format=original",
-        "imageLink": "",
+        "imageLink": "http://images.tibiabr.com/hotnews/20120214_valentine_s_day_tibia.jpg",
         "category": "HOLIDAY"
     },
     {
@@ -161,7 +163,7 @@
         "linkFandom": "https://tibia.fandom.com/wiki/Valentine%27s_Day",
         "emoji": "💘",
         "emojiLink": "https://static.wikia.nocookie.net/tibia/images/c/c1/Valentine%27s_Card.gif/revision/latest?cb=20171106160905&path-prefix=en&format=original",
-        "imageLink": "",
+        "imageLink": "http://images.tibiabr.com/hotnews/20120214_valentine_s_day_tibia.jpg",
         "category": "HOLIDAY"
     },
     {
@@ -196,6 +198,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
         "linkFandom": "https://tibia.fandom.com/wiki/The_Colours_of_Magic",
         "emoji": "🎩",
+        "emojiLink": "http://images.tibiabr.com/hotnews/colorsofmagic.png",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/1/12/Colors_of_Magic.jpg/revision/latest?cb=20120314190710&path-prefix=en",
         "category": "ANNUAL"
     },
     {
@@ -206,6 +210,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
         "linkFandom": "https://tibia.fandom.com/wiki/The_Colours_of_Magic",
         "emoji": "🎩",
+        "emojiLink": "http://images.tibiabr.com/hotnews/colorsofmagic.png",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/1/12/Colors_of_Magic.jpg/revision/latest?cb=20120314190710&path-prefix=en",
         "category": "ANNUAL"
     },
     {
@@ -216,6 +222,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/April_Fools",
         "linkFandom": "https://tibia.fandom.com/wiki/April%27s_Fools_Day",
         "emoji": "🃏",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/4/4e/Hoaxette.gif/revision/latest?cb=20220401113112&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/0/03/News_pranksters.jpg/revision/latest?cb=20230412213703&path-prefix=en&format=original",
         "category": "COMMON"
     },
     {
@@ -226,6 +234,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/April_Fools",
         "linkFandom": "https://tibia.fandom.com/wiki/April%27s_Fools_Day",
         "emoji": "🃏",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/4/4e/Hoaxette.gif/revision/latest?cb=20220401113112&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/0/03/News_pranksters.jpg/revision/latest?cb=20230412213703&path-prefix=en&format=original",
         "category": "COMMON"
     },
     {
@@ -236,6 +246,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Chyllfroest",
         "linkFandom": "https://tibia.fandom.com/wiki/Chyllfroest_Mini_World_Change",
         "emoji": "❄️",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/bc/Ursagrodon.gif/revision/latest?cb=20140215165246&path-prefix=en&format=original",
+        "imageLink": "http://images.tibiabr.com/hotnews/2014-05-03-063535-007.png",
         "category": "ANNUAL"
     },
     {
@@ -246,6 +258,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Chyllfroest",
         "linkFandom": "https://tibia.fandom.com/wiki/Chyllfroest_Mini_World_Change",
         "emoji": "❄️",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/bc/Ursagrodon.gif/revision/latest?cb=20140215165246&path-prefix=en&format=original",
+        "imageLink": "http://images.tibiabr.com/hotnews/2014-05-03-063535-007.png",
         "category": "ANNUAL"
     },
     {
@@ -256,6 +270,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Spring_Into_Life",
         "linkFandom": "https://tibia.fandom.com/wiki/Spring_into_Life",
         "emoji": "🌱",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Coloured_Egg_%28Blue%29.gif/revision/latest?cb=20070405101948&path-prefix=en&format=original",
+        "imageLink": "https://portaltibia.com.br/wp-content/uploads/2012/04/spring2life.png",
         "category": "ANNUAL"
     },
     {
@@ -266,6 +282,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Spring_Into_Life",
         "linkFandom": "https://tibia.fandom.com/wiki/Spring_into_Life",
         "emoji": "🌱",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Coloured_Egg_%28Blue%29.gif/revision/latest?cb=20070405101948&path-prefix=en&format=original",
+        "imageLink": "https://portaltibia.com.br/wp-content/uploads/2012/04/spring2life.png",
         "category": "ANNUAL"
     },
     {
@@ -276,6 +294,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Demon%27s_Lullaby",
         "linkFandom": "https://tibia.fandom.com/wiki/Demon%27s_Lullaby",
         "emoji": "😈",
+        "emojiLink": "https://static.tibia.com/images/news/demon_lullaby.jpg",
+        "imageLink": "https://static.tibia.com/images/news/demon_lullaby.jpg",
         "category": "ANNUAL"
     },
     {
@@ -286,6 +306,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Demon%27s_Lullaby",
         "linkFandom": "https://tibia.fandom.com/wiki/Demon%27s_Lullaby",
         "emoji": "😈",
+        "emojiLink": "https://static.tibia.com/images/news/demon_lullaby.jpg",
+        "imageLink": "https://static.tibia.com/images/news/demon_lullaby.jpg",
         "category": "ANNUAL"
     },
     {
@@ -296,6 +318,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Flower_Month",
         "linkFandom": "https://tibia.fandom.com/wiki/Flower_Month",
         "emoji": "🌹",
+        "emojiLink": "",
+        "imageLink": "",
         "category": "COMMON"
     },
     {
@@ -306,6 +330,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Flower_Month",
         "linkFandom": "https://tibia.fandom.com/wiki/Flower_Month",
         "emoji": "🌹",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Flower_Hut.jpg/revision/latest?cb=20121019114056&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Flower_Hut.jpg/revision/latest?cb=20121019114056&path-prefix=en&format=original",
         "category": "COMMON"
     },
     {
@@ -316,6 +342,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Bewitched",
         "linkFandom": "https://tibia.fandom.com/wiki/Bewitched",
         "emoji": "🧙‍♀️",
+        "emojiLink": "https://www.tibiawiki.com.br/images/5/51/Bewitched.png?20150111143448",
+        "imageLink": "https://www.tibiawiki.com.br/images/5/51/Bewitched.png?20150111143448",
         "category": "ANNUAL"
     },
     {
@@ -326,6 +354,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Bewitched",
         "linkFandom": "https://tibia.fandom.com/wiki/Bewitched",
         "emoji": "🧙‍♀️",
+        "emojiLink": "https://www.tibiawiki.com.br/images/5/51/Bewitched.png?20150111143448",
+        "imageLink": "https://www.tibiawiki.com.br/images/5/51/Bewitched.png?20150111143448",
         "category": "ANNUAL"
     },
     {
@@ -336,6 +366,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Hot_Cuisine_Quest",
         "linkFandom": "https://tibia.fandom.com/wiki/Hot_Cuisine_Quest",
         "emoji": "👨‍🍳",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Jean_Pierre%27s_Cookbook_II.gif/revision/latest?cb=20171106160341&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/7/71/HotCuisineRewards.png/revision/latest?cb=20101020083912&path-prefix=en&format=original",
         "category": "ANNUAL"
     },
     {
@@ -346,6 +378,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Hot_Cuisine_Quest",
         "linkFandom": "https://tibia.fandom.com/wiki/Hot_Cuisine_Quest",
         "emoji": "👨‍🍳",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/b/be/Jean_Pierre%27s_Cookbook_II.gif/revision/latest?cb=20171106160341&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/7/71/HotCuisineRewards.png/revision/latest?cb=20101020083912&path-prefix=en&format=original",
         "category": "ANNUAL"
     },
     {
@@ -356,6 +390,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Rise_of_Devovorga",
         "linkFandom": "https://tibia.fandom.com/wiki/Rise_of_Devovorga",
         "emoji": "🦑",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/4/40/Devovorga.gif/revision/latest?cb=20100826173451&path-prefix=en&format=original",
+        "imageLink": "https://www.tibialife.com.br/wp-content/uploads/2020/09/devovorga_fa_small-300x205.png",
         "category": "ANNUAL"
     },
     {
@@ -366,6 +402,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Rise_of_Devovorga",
         "linkFandom": "https://tibia.fandom.com/wiki/Rise_of_Devovorga",
         "emoji": "🦑",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/4/40/Devovorga.gif/revision/latest?cb=20100826173451&path-prefix=en&format=original",
+        "imageLink": "https://www.tibialife.com.br/wp-content/uploads/2020/09/devovorga_fa_small-300x205.png",
         "category": "ANNUAL"
     },
     {
