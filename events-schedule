@@ -318,8 +318,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Flower_Month",
         "linkFandom": "https://tibia.fandom.com/wiki/Flower_Month",
         "emoji": "🌹",
-        "emojiLink": "",
-        "imageLink": "",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Flower_Hut.jpg/revision/latest?cb=20121019114056&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/6/6a/Flower_Hut.jpg/revision/latest?cb=20121019114056&path-prefix=en&format=original",
         "category": "COMMON"
     },
     {
@@ -414,6 +414,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
         "linkFandom": "https://tibia.fandom.com/wiki/The_Colours_of_Magic",
         "emoji": "🎩",
+        "emojiLink": "http://images.tibiabr.com/hotnews/colorsofmagic.png",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/1/12/Colors_of_Magic.jpg/revision/latest?cb=20120314190710&path-prefix=en",
         "category": "ANNUAL"
     },
     {
@@ -424,6 +426,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/The_Colours_of_Magic",
         "linkFandom": "https://tibia.fandom.com/wiki/The_Colours_of_Magic",
         "emoji": "🎩",
+        "emojiLink": "http://images.tibiabr.com/hotnews/colorsofmagic.png",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/1/12/Colors_of_Magic.jpg/revision/latest?cb=20120314190710&path-prefix=en",
         "category": "ANNUAL"
     },
     {
@@ -474,6 +478,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Halloween",
         "linkFandom": "https://tibia.fandom.com/wiki/Halloween",
         "emoji": "🎃",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/7/7b/The_Mutated_Pumpkin.gif/revision/latest?cb=20081031122216&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/7/7a/Halloween_event_news.png/revision/latest/scale-to-width-down/1000?cb=20251031162542&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
@@ -484,6 +490,8 @@
         "link": "https://www.tibiawiki.com.br/wiki/Halloween",
         "linkFandom": "https://tibia.fandom.com/wiki/Halloween",
         "emoji": "🎃",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/7/7b/The_Mutated_Pumpkin.gif/revision/latest?cb=20081031122216&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/7/7a/Halloween_event_news.png/revision/latest/scale-to-width-down/1000?cb=20251031162542&path-prefix=en&format=original",
         "category": "HOLIDAY"
     },
     {
