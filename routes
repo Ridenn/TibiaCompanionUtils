@@ -1351,5 +1351,35 @@
       "explorerSocietyIceMusic",
       "explorerSocietyRankIV"
     ]
+  },
+  {
+    "from": "thais",
+    "to": "targuna",
+    "weight": 110,
+    "transport": "boat"
+  },
+  {
+    "from": "thais",
+    "to": "targuna",
+    "weight": 0,
+    "transport": "boat",
+    "conditions": [
+      "sailPass"
+    ]
+  },
+  {
+    "from": "targuna",
+    "to": "thais",
+    "weight": 5000,
+    "transport": "boat"
+  },
+    {
+    "from": "targuna",
+    "to": "thais",
+    "weight": 0,
+    "transport": "boat",
+    "conditions": [
+      "sailPass"
+    ]
   }
 ]
