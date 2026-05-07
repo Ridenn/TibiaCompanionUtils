@@ -4134,7 +4134,7 @@
         "profitMin": -200000,
         "profitMax": -100000,
         "videoUrl": "https://youtu.be/f3HTonNuPfs",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4166,7 +4166,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -4187,7 +4187,7 @@
         "profitMin": -150000,
         "profitMax": 150000,
         "videoUrl": "https://youtu.be/vzOCNbao6qI",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4221,7 +4221,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -4241,7 +4241,7 @@
         "profitMin": 100000,
         "profitMax": 300000,
         "videoUrl": "https://youtu.be/x5xGitBFZyI",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4274,7 +4274,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -4295,7 +4295,7 @@
         "profitMin": -20000,
         "profitMax": 40000,
         "videoUrl": "https://youtu.be/B0OVmU_w7dA",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Quara Predator",
             "Quara Pincher",
@@ -4331,7 +4331,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [
             {
                 "type": "Item",
@@ -4357,7 +4357,7 @@
         "profitMin": 200000,
         "profitMax": 650000,
         "videoUrl": "https://youtu.be/j-bBrFach94",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Enlightened of the Cult",
             "Adept of the Cult",
@@ -4394,7 +4394,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -4472,7 +4472,7 @@
         "profitMin": 70000,
         "profitMax": 150000,
         "videoUrl": "https://youtu.be/wI0LQ3h--38",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "War Golem",
             "Worker Golem",
@@ -4509,7 +4509,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [
             {
                 "type": "Item",
@@ -5748,7 +5748,7 @@
         "profitMin": -10000,
         "profitMax": 10000,
         "videoUrl": "https://youtu.be/uqSPQU3opWY",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Lich",
             "Necromancer",
@@ -5787,7 +5787,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -6632,7 +6632,7 @@
         "profitMin": 250000,
         "profitMax": 400000,
         "videoUrl": "https://youtu.be/YmLXSwoqYC0",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "War Golem",
             "Worker Golem",
@@ -6669,7 +6669,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [
             {
                 "type": "Item",
@@ -6694,7 +6694,7 @@
         "profitMin": 30000,
         "profitMax": 0,
         "videoUrl": "https://youtu.be/xdJw4E-RhJM",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Nightmare",
             "Nightmare Scion",
@@ -6730,7 +6730,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -6750,7 +6750,7 @@
         "profitMin": -20000,
         "profitMax": 10000,
         "videoUrl": "https://youtu.be/UeTNCKMKaFM",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Nightmare",
             "Nightmare Scion",
@@ -6787,7 +6787,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -7955,7 +7955,7 @@
         "profitMin": 0,
         "profitMax": 25000,
         "videoUrl": "https://youtu.be/hsMIN10f1Lk",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Bog Raider",
             "Mutated Tiger",
@@ -7990,7 +7990,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -8068,7 +8068,7 @@
         "profitMin": 5000,
         "profitMax": 15000,
         "videoUrl": "https://youtu.be/6S2XC-tSxHc",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Slime",
             "Mutated Human",
@@ -8101,7 +8101,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9087,7 +9087,7 @@
         "profitMin": -9000,
         "profitMax": -4000,
         "videoUrl": "https://youtu.be/6ZUFWuYB2Q0",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Cyclops Smith",
             "Cyclops Drone",
@@ -9122,7 +9122,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9252,7 +9252,7 @@
         "profitMin": 15000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/y8CzJ0P_LFI",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Marid",
             "Blue Djinn"
@@ -9286,7 +9286,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9306,7 +9306,7 @@
         "profitMin": 15000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/1gm4JbnCq48",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Efreet",
             "Green Djinn"
@@ -9340,7 +9340,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9501,7 +9501,7 @@
         "profitMin": 0,
         "profitMax": 3000,
         "videoUrl": "https://youtu.be/Po13uqlTgnY",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Cyclops Smith",
             "Cyclops Drone",
@@ -9538,7 +9538,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9684,7 +9684,7 @@
         "profitMin": 5000,
         "profitMax": 100000,
         "videoUrl": "https://youtu.be/7YX9w8XX3RM",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Tortoise",
             "Carrion Worm",
@@ -9718,7 +9718,7 @@
             "z": 9
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [],
         "pathToNew": null
     },
@@ -9853,7 +9853,7 @@
         "profitMin": 5000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/a9KMnOfP2cw",
-        "access": "Yalahar (premium)",
+        "access": "Yalahar (free/premium)",
         "monsters": [
             "Ghoul",
             "Skeleton",
@@ -9889,7 +9889,7 @@
             "z": 7
         },
         "teamSize": "SOLO",
-        "areaStatus": "PREMIUM",
+        "areaStatus": "FREE",
         "requirements": [
             {
                 "type": "Item",
