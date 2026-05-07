@@ -4134,7 +4134,7 @@
         "profitMin": -200000,
         "profitMax": -100000,
         "videoUrl": "https://youtu.be/f3HTonNuPfs",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4187,7 +4187,7 @@
         "profitMin": -150000,
         "profitMax": 150000,
         "videoUrl": "https://youtu.be/vzOCNbao6qI",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4241,7 +4241,7 @@
         "profitMin": 100000,
         "profitMax": 300000,
         "videoUrl": "https://youtu.be/x5xGitBFZyI",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Grim Reaper"
         ],
@@ -4295,7 +4295,7 @@
         "profitMin": -20000,
         "profitMax": 40000,
         "videoUrl": "https://youtu.be/B0OVmU_w7dA",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Quara Predator",
             "Quara Pincher",
@@ -4357,7 +4357,7 @@
         "profitMin": 200000,
         "profitMax": 650000,
         "videoUrl": "https://youtu.be/j-bBrFach94",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Enlightened of the Cult",
             "Adept of the Cult",
@@ -4472,7 +4472,7 @@
         "profitMin": 70000,
         "profitMax": 150000,
         "videoUrl": "https://youtu.be/wI0LQ3h--38",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "War Golem",
             "Worker Golem",
@@ -5748,7 +5748,7 @@
         "profitMin": -10000,
         "profitMax": 10000,
         "videoUrl": "https://youtu.be/uqSPQU3opWY",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Lich",
             "Necromancer",
@@ -6632,7 +6632,7 @@
         "profitMin": 250000,
         "profitMax": 400000,
         "videoUrl": "https://youtu.be/YmLXSwoqYC0",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "War Golem",
             "Worker Golem",
@@ -6694,7 +6694,7 @@
         "profitMin": 30000,
         "profitMax": 0,
         "videoUrl": "https://youtu.be/xdJw4E-RhJM",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Nightmare",
             "Nightmare Scion",
@@ -6750,7 +6750,7 @@
         "profitMin": -20000,
         "profitMax": 10000,
         "videoUrl": "https://youtu.be/UeTNCKMKaFM",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Nightmare",
             "Nightmare Scion",
@@ -7955,7 +7955,7 @@
         "profitMin": 0,
         "profitMax": 25000,
         "videoUrl": "https://youtu.be/hsMIN10f1Lk",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Bog Raider",
             "Mutated Tiger",
@@ -8068,7 +8068,7 @@
         "profitMin": 5000,
         "profitMax": 15000,
         "videoUrl": "https://youtu.be/6S2XC-tSxHc",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Slime",
             "Mutated Human",
@@ -9087,7 +9087,7 @@
         "profitMin": -9000,
         "profitMax": -4000,
         "videoUrl": "https://youtu.be/6ZUFWuYB2Q0",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Cyclops Smith",
             "Cyclops Drone",
@@ -9252,7 +9252,7 @@
         "profitMin": 15000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/y8CzJ0P_LFI",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Marid",
             "Blue Djinn"
@@ -9306,7 +9306,7 @@
         "profitMin": 15000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/1gm4JbnCq48",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Efreet",
             "Green Djinn"
@@ -9501,7 +9501,7 @@
         "profitMin": 0,
         "profitMax": 3000,
         "videoUrl": "https://youtu.be/Po13uqlTgnY",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Cyclops Smith",
             "Cyclops Drone",
@@ -9684,7 +9684,7 @@
         "profitMin": 5000,
         "profitMax": 100000,
         "videoUrl": "https://youtu.be/7YX9w8XX3RM",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Tortoise",
             "Carrion Worm",
@@ -9853,7 +9853,7 @@
         "profitMin": 5000,
         "profitMax": 30000,
         "videoUrl": "https://youtu.be/a9KMnOfP2cw",
-        "access": "Yalahar (free/premium)",
+        "access": "Yalahar",
         "monsters": [
             "Ghoul",
             "Skeleton",
