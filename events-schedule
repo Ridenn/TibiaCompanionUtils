@@ -928,5 +928,15 @@
         "link": "https://tibia.fandom.com/wiki/Double_Daily_Reward_Events",
         "emoji": "🎁",
         "category": "BOOST"
+    },
+    {
+        "name": "Double XP and Double Skill Event",
+        "startDate": "2026-09-04",
+        "endDate": "2026-09-07",
+        "descriptionResName": "Between the server saves of September 4 and September 7 all monsters will yield twice the usual amount of experience points, and your skill training, including magic level, will advance twice as fast. The skill progress when training offline will also be doubled. Have fun!",
+        "link": "https://tibia.fandom.com/wiki/Double_Experience_and_Skill_Events",
+        "emojiLink": "https://static.wikia.nocookie.net/tibia/images/6/65/Double_Experience_and_Skill_Event.png/revision/latest?cb=20200227133506&path-prefix=en&format=original",
+        "imageLink": "https://static.wikia.nocookie.net/tibia/images/6/65/Double_Experience_and_Skill_Event.png/revision/latest?cb=20200227133506&path-prefix=en&format=original",
+        "category": "BOOST"
     }
 ]
