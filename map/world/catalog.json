@@ -27,7 +27,8 @@
       ],
       "originX": 31744,
       "originY": 30976,
-      "pixelsPerCoordinate": 1
+      "pixelsPerCoordinate": 1,
+      "tileVersion": "tibiamaps-d672e0aad97f5fefc4da25a4fa9a38311c25f5ec"
     },
     {
       "id": "stylized",
