@@ -1,0 +1,81 @@
+{
+  "version": "v1-5eb276ae6154",
+  "styles": [
+    {
+      "id": "minimap",
+      "width": 2560,
+      "height": 2048,
+      "tileSize": 256,
+      "zoomLevels": 1,
+      "floors": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "originX": 31744,
+      "originY": 30976,
+      "pixelsPerCoordinate": 1
+    },
+    {
+      "id": "stylized",
+      "width": 2560,
+      "height": 2048,
+      "tileSize": 256,
+      "zoomLevels": 1,
+      "floors": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "originX": 31744,
+      "originY": 30976,
+      "pixelsPerCoordinate": 1
+    },
+    {
+      "id": "satellite",
+      "width": 4352,
+      "height": 4096,
+      "tileSize": 256,
+      "zoomLevels": 1,
+      "floors": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "originX": 31872,
+      "originY": 30976,
+      "pixelsPerCoordinate": 2
+    }
+  ]
+}
